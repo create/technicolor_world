@@ -1,0 +1,67 @@
+{% extends 'base.html' %}
+{% block content %}
+<!-- Main -->
+<div id="main" class="wrapper style1">
+	<div class="container">
+		<header class="major">
+			<h2>You know you want it</h2>
+			<p>Buy two and unlock a whole new level of awesome</p>
+		</header>
+		<div class="row 150%">
+			<div class="8u 12u$(medium)">
+
+				<!-- Content -->
+					<section id="content">
+						<a href="#" class="image fit"><img src="{{ url_for('static', filename='images/pic06.jpg') }}" alt="" /></a>
+						<h3>Checkout</h3>
+						<form>
+							<label>
+								<input name="quantity" placeholder="Quantity" type="text"/>
+							</label>
+							<label>
+								<input type="text" name="address" placeholder="Shipping address"/>
+							</label>
+							<label>
+								<input type="text" name="credit" placeholder="Credit card number"/>
+							</label>
+							<a href="#" type="submit" class="button">Order</a>
+						</form>
+						<h3>You're awesome</h3>
+						<p>Thanks for sending us money. We will make your product now and send it to you for you to enjoy. Here are five suggestions for what you can do when you receive it:</p>
+						<ul>
+							<li>Hug it tightly.</li>
+							<li>Admire it as it lays on your dining room table.</li>
+							<li>Brag about it to your coworkers.</li>
+							<li>Hang it up over your fireplace.</li>
+							<li>Send pictures of it to all your friends.</li>
+						</ul>
+					</section>
+
+			</div>
+			<div class="4u$ 12u$(medium)">
+
+				<!-- Sidebar -->
+					<section id="sidebar">
+						<section>
+							<h3>When will my order ship?</h3>
+							<p>Orders will ship in mid December before Christmas. Right in time for holiday festivities.</p>
+						</section>
+						<hr />
+						<section>
+							<a href="#" class="image fit"><img src="{{ url_for('static', filename='images/pic07.jpg') }}" alt="" /></a>
+							<h3>What's your warranty?</h3>
+							<p>We have a guarantee against any defects in workmanship or materials. If you have any issues with your product please get in touch with us and we'll be happy to assist in any way.</p>
+						</section>
+						<section>
+							<h3>More questions?</h3>
+							<footer>
+								<a href="{{ url_for('contact') }}" class="button">Ask Us</a>
+							</footer>
+						</section>
+					</section>
+
+			</div>
+		</div>
+	</div>
+</div>
+{% endblock %}

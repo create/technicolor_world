@@ -1,0 +1,51 @@
+{% extends 'base.html' %}
+{% block content %}
+<!-- Main -->
+<div id="main" class="wrapper style1">
+	<div class="container">
+		<header class="major">
+			<h2>Get in touch</h2>
+			<p>Send us intriguing information</p>
+		</header>
+		<div class="row 150%">
+			<div class="4u 12u$(medium)">
+
+				<!-- Sidebar -->
+					<section id="sidebar">
+						<section>
+							<h3>We like hearing from people</h3>
+							<p>It seriously lights up our day. We love hearing from customers or potential manufacturing partners. If you want to rant, that's cool too.</p>
+						</section>
+						<hr />
+						<section>
+							<a href="#" class="image fit"><img src="{{ url_for('static', filename='images/pic06.jpg') }}" alt="" /></a>
+							<h3>Questions about your order?</h3>
+							<p>We'd be happy to answer them. Special requests? We'll accomodate those too. You're in good hands.</p>
+						</section>
+					</section>
+
+			</div>
+			<div class="8u$ 12u$(medium) important(medium)">
+
+				<!-- Content -->
+					<section id="content">
+						<h3>Compose your message</h3>
+						<form>
+							<label>
+							<input type="text" name="name" placeholder="Name">
+							</label>
+							<label>
+							<input type="email" name="email" placeholder="Email address">
+							</label>
+							<label>
+							<textarea name="text" placeholder="Message"></textarea>
+							</label>
+							<a href="#" class="button" type="submit">Submit</a>
+						</form>
+					</section>
+
+			</div>
+		</div>
+	</div>
+</div>
+{% endblock %}

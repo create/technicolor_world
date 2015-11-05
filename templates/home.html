@@ -1,0 +1,19 @@
+{% set display_footer=False %}
+
+{% extends 'base.html' %}
+
+{% block content %}
+<!-- Banner -->
+<section id="banner">
+	<div class="content">
+		<a href="{{ url_for('product') }}" class="invisible">
+		<header>
+			<h2>Technicolor world is a</h2>
+			<p><strong>room defining</strong> statement piece.</p>
+			<p>Designed and built to <strong>illuminate the world.</strong></p>
+		</header>
+		<span class="image"><img src="{{ url_for('static', filename='images/pic01.jpg') }}" alt="" /></span>
+		</a>
+	</div>
+</section>
+{% endblock %}

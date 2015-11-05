@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+{% block content %}
+<!-- Main -->
+<div id="main" class="wrapper style1">
+	<div class="container">
+		<header class="major">
+			<h2>3 guys and a drill</h2>
+			<p>Bringing technological sophistication to the art space</p>
+		</header>
+
+		<!-- Content -->
+			<section id="content">
+				<a href="#" class="image fit"><img src="{{ url_for('static', filename='images/pic07.jpg') }}" alt="" /></a>
+				<h3>Started with an idea</h3>
+				<p>Three college kids and a piece of wood. Spend a day drilling holes.</p>
+				<p>Realized we needed to CNC. Built a 3D model. CNCing ensued.</p>
+				<h3>Electrification</h3>
+				<p>Arduino UNO R3. Pro micro. Neopixel. Individual addressing. Real time clock. Breadboards. PCBs. Solder. Let there be light.</p>
+				<h3>Productification</h3>
+				<p>Online store. Shipping. Partnerships. Tabling. Door to door. Shipments ensue. You order. We deliver illumination.</p>
+			</section>
+	</div>
+</div>
+{% endblock %}

@@ -1,0 +1,66 @@
+{% set APPNAME="Technicolor World" %}
+{% if display_footer is not defined %}
+	{% set display_footer=False %}
+{% endif %}
+
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>{{ APPNAME }}</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		{% assets "css_all" %}
+		<link rel="stylesheet" href="{{ ASSET_URL }}" />
+		{% endassets %}
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body class="landing">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+			<header id="header" class="container">
+
+				<!-- Logo -->
+					<h1 id="logo"><a href="{{ url_for('home') }}"><img src="{{ url_for('static', filename='images/tw_logo_s.png') }}" alt="TW"/></a></h1>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul>
+							<li>
+								<a href="{{ url_for('product') }}">The Product</a>
+							</li>
+							<li><a href="{{ url_for('story') }}">The Story</a></li>
+							<li><a href="{{ url_for('reserve') }}">Reserve Yours</a></li>
+							<li><a href="{{ url_for('contact') }}">Contact Us</a></li>
+						</ul>
+					</nav>
+
+			</header>
+			{% block content %}{% endblock %}
+			{% if display_footer %}
+			<!-- Footer -->
+				<footer id="footer">
+					<ul class="icons">
+						<li><a href="#" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="#" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
+						<li><a href="#" class="icon alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
+						<li><a href="#" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
+						<li><a href="#" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
+						<li><a href="#" class="icon alt fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+					<ul class="copyright">
+						<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</footer>
+			{% endif %}
+		</div>
+
+		<!-- Scripts -->
+		{% assets 'js_all' %}
+			<script src="{{ ASSET_URL }}"></script>
+		{% endassets %}
+
+	</body>
+</html>
