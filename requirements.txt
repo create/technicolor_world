@@ -1,3 +1,4 @@
+Cython==0.23.4
 Flask==0.10.1
 Flask-Assets==0.11
 Jinja2==2.8
@@ -10,6 +11,7 @@ itsdangerous==0.24
 pyparsing==2.0.6
 requests==2.8.1
 requests-futures==0.9.5
+sass==2.3
 scss==0.8.73
 webassets==0.11.1
 wsgiref==0.1.2
