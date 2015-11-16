@@ -3,7 +3,7 @@ from flask.ext.assets import Environment, Bundle
 
 app = Flask(__name__)
 assets = Environment(app)
-app.config['ASSETS_DEBUG'] = True
+
 css = Bundle(
     'css/main.scss',
     filters=('scss',),
