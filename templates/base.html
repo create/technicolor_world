@@ -16,11 +16,11 @@
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 	</head>
-	<body class="landing">
+	<body class="{{ BODY_CLASS }}">
 		<div id="page-wrapper">
 
 			<!-- Header -->
-			<header id="header" class="container">
+			<header id="header" class="container {{HEADER_CLASS}}">
 
 				<!-- Logo -->
 					<h1 id="logo"><a href="{{ url_for('home') }}"><img src="{{ url_for('static', filename='images/tw_logo_s.png') }}" alt="TW"/></a></h1>

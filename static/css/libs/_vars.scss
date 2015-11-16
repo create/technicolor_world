@@ -9,7 +9,7 @@
 	$duration: (
 		navPanel:			0.5s,
 		transition:			0.2s,
-		landing-fadein:		1.5s
+		landing-fadein:		0.5s
 	);
 
 // Size.
@@ -22,7 +22,7 @@
 
 // Font.
 	$font: (
-		family:				('Roboto', Helvetica, sans-serif),
+		family:				(Helvetica, sans-serif),
 		family-fixed:		('Courier New', monospace),
 		weight:				100,
 		weight-bold:		300
@@ -30,19 +30,22 @@
 
 // Palette.
 	$palette: (
-		bg:					#1c1d26,
-		bg-transparent:		rgba(23,24,32,0.95),
-		fg-bold:			#ffffff,
-		fg:					rgba(255,255,255,0.75),
-		fg-light:			rgba(255,255,255,0.5),
-		fg-lighter:			rgba(255,255,255,0.15),
-		border:				rgba(255,255,255,0.3),
-		border-bg:			rgba(255,255,255,0.075),
-		border2:			rgba(255,255,255,0.5),
-		border2-bg:			rgba(255,255,255,0.25),
-		accent1:			#e44c65,
-		accent2:			#272833,
-		accent2-transparent:rgba(39,40,51,0.965),
-		accent3:			#5480f1,
-		accent4:			#39c088
+		bg:					#fff,
+		bg-transparent:		rgba(255,255,255,1),
+		fg-bold:			rgb(40,40,40),
+		fg-white:           #fff,
+		fg-white-bold:      #eee,
+		fg:					rgba(20,20,20,0.75),
+		fg-light:			rgba(20,20,20,0.5),
+		fg-lighter:			rgba(20,20,20,0.15),
+		border:				rgba(100,100,100,0.3),
+		border-bg:			rgba(100,100,100,0.075),
+		border2:			rgba(100,100,100,0.5),
+		border2-bg:			rgba(100,100,100,0.25),
+		accent1:			#4CB1E4,
+		accent2:			#D3D4D6,
+		accent2-transparent:rgba(0,0,0,0.8),
+		accent3:			#F15480,
+		accent4:			#39c088,
+		accent5:            #F2E801
 	);

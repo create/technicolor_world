@@ -4,6 +4,7 @@
 @import url('../css/font-awesome.min.css');
 @import url("http://fonts.googleapis.com/css?family=Roboto:100,300,100italic,300italic");
 
+
 /*
 	Landed by HTML5 UP
 	html5up.net | @n33co
@@ -77,6 +78,9 @@
 
 	a {
 		@include vendor('transition', ('border-color #{_duration(transition)} ease-in-out', 'color #{_duration(transition)} ease-in-out'));
+		-webkit-transition: opacity 0.2s cubic-bezier(0.645, 0.045, 0.355, 1);
+	    transition: opacity 0.2s cubic-bezier(0.645, 0.045, 0.355, 1);
+	    -webkit-tap-highlight-color: transparent;
 		border-bottom: dotted 1px;
 		color: _palette(accent1);
 		text-decoration: none;
@@ -310,15 +314,13 @@
 			text-align: center;
 		}
 	}
-
+	#logo img, .title img {
+		vertical-align: middle;
+		height: 40px;
+	}
 	header {
-
 		#logo {
 			margin-left: .25em !important;
-			img {
-				vertical-align: middle;
-				height: 40px;
-			}
 		}
 
 		p {
@@ -1306,6 +1308,22 @@
 
 	#header {
 		background: _palette(accent2-transparent);
+		&.accent1 {
+			background: _palette(accent1);
+		}
+		&.accent2 {
+			background: _palette(accent2);
+		}
+		&.accent3 {
+			background: _palette(accent3);
+		}
+		&.accent4 {
+			background: _palette(accent4);
+		}
+		&.accent5 {
+			background: _palette(accent5);
+		}
+
 		box-shadow: 0 0 0.25em 0 rgba(0,0,0,0.25);
 		cursor: default;
 		height: 3.5em;
@@ -1339,7 +1357,7 @@
 
 					a, span {
 						border: 0;
-						color: inherit;
+						color: _palette(fg-white);
 						display: inline-block;
 						height: inherit;
 						line-height: inherit;
@@ -1353,6 +1371,10 @@
 
 						&:not(.button):before {
 							margin-right: 0.5em;
+						}
+						&:hover {
+							opacity: 0.65;
+							color: _palette(fg-white) !important;
 						}
 					}
 
@@ -1383,6 +1405,11 @@
 			background: transparent;
 			box-shadow: none;
 			position: absolute;
+			li {
+				a {
+					color: _palette(fg-white);
+				}
+			}
 		}
 	}
 
@@ -1458,11 +1485,16 @@
 				h2 {
 					font-size: 2.5em;
 					margin: 0;
+					color: _palette(fg-white);
 				}
 
 				p {
 					margin: (_size(element-margin) * 0.25) 0 0 0;
 					top: 0;
+					color: _palette(fg-white);
+					strong {
+						color: _palette(fg-white-bold);
+					}
 				}
 			}
 
@@ -2003,12 +2035,12 @@
 
 		/* Button */
 
-			input[type="submit"],
-			input[type="reset"],
-			input[type="button"],
-			.button {
-				padding: 0;
-			}
+			// input[type="submit"],
+			// input[type="reset"],
+			// input[type="button"],
+			// .button {
+			// 	padding: 0;
+			// }
 
 		/* Spotlight */
 
@@ -2052,5 +2084,4 @@
 					}
 				}
 			}
-
 	}

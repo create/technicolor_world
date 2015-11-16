@@ -1,34 +1,28 @@
 from flask import Flask, render_template
-from flask.ext import assets
-from webassets.filter import get_filter
+from flask.ext.assets import Environment, Bundle
 
 app = Flask(__name__)
-env = assets.Environment(app)
-
-scss = get_filter('scss', load_paths='static/css')
-
-env.register(
-    'css_all',
-    assets.Bundle(
-        'css/main.scss',
-        filters=(scss,),
-        output='gen/main.css'
-    )
+assets = Environment(app)
+app.config['ASSETS_DEBUG'] = True
+css = Bundle(
+    'css/main.scss',
+    filters=('scss',),
+    output='gen/main.%(version)s.css'
+)
+js = Bundle(
+    'js/jquery.min.js',
+    'js/jquery.scrolly.min.js',
+    'js/jquery.dropotron.min.js',
+    'js/jquery.scrollex.min.js',
+    'js/skel.min.js',
+    'js/util.js',
+    'js/main.js',
+    output='gen/all.%(version)s.js'
 )
 
-env.register(
-    'js_all',
-    assets.Bundle(
-        'js/jquery.min.js',
-        'js/jquery.scrolly.min.js',
-        'js/jquery.dropotron.min.js',
-        'js/jquery.scrollex.min.js',
-        'js/skel.min.js',
-        'js/util.js',
-        'js/main.js',
-        output='gen/all.js'
-    )
-)
+assets.register('css_all', css)
+
+assets.register('js_all', js)
 
 @app.route('/')
 def home():
