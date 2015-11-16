@@ -1,8 +1,12 @@
 from flask import Flask, render_template
 from flask.ext.assets import Environment, Bundle
+import sys
+import logging
 
 app = Flask(__name__)
 assets = Environment(app)
+app.logger.addHandler(logging.StreamHandler(sys.stdout))
+app.logger.setLevel(logging.ERROR)
 
 css = Bundle(
     'css/main.scss',
