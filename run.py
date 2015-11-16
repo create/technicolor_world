@@ -2,6 +2,9 @@ from flask import Flask, render_template
 from flask.ext.assets import Environment, Bundle
 import sys
 import logging
+from webassets.filter import get_filter
+
+scss = get_filter('scss', load_paths='static/css')
 
 app = Flask(__name__)
 assets = Environment(app)
@@ -10,7 +13,7 @@ app.logger.setLevel(logging.ERROR)
 
 css = Bundle(
     'css/main.scss',
-    filters=('scss',),
+    filters=(scss,),
     output='gen/main.%(version)s.css'
 )
 js = Bundle(
