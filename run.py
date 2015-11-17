@@ -14,7 +14,7 @@ app.logger.setLevel(logging.ERROR)
 css = Bundle(
     'css/main.scss',
     filters=(scss,),
-    output='gen/main.%(version)s.css'
+    output='gen/main.css'
 )
 js = Bundle(
     'js/jquery.min.js',
@@ -24,7 +24,7 @@ js = Bundle(
     'js/skel.min.js',
     'js/util.js',
     'js/main.js',
-    output='gen/all.%(version)s.js'
+    output='gen/all.js'
 )
 
 assets.register('css_all', css)
