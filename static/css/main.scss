@@ -1026,10 +1026,14 @@
 		.content {
 			@include vendor('transform', 'translate(0,0)');
 			@include vendor('transition', 'transform 1s ease, opacity 1s ease');
+
 			background: _palette(bg-transparent);
 			border-style: solid;
 			opacity: 1;
 			position: absolute;
+			&.first {
+				@include vendor('transition-delay', '1s');
+			}
 		}
 
 		.goto-next {
@@ -1154,6 +1158,21 @@
 
 		&.style2 {
 			background: _palette(accent1);
+			color: _palette(fg-white);
+
+			h1,h2,h3,h4,h5,h6,p,input {
+				color: _palette(fg-white);
+
+			}
+			input[type="submit"].special {
+				background-color: _palette(fg-white) !important;
+			}
+			input[type="email"] {
+				border: solid 1px rgba(255, 255, 255, 0.3);
+			}
+			input[type="email"]:focus {
+				border-color: rgba(255, 255, 255, 0.7) !important;
+			}
 
 			input[type="text"],
 			input[type="password"],

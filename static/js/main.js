@@ -26,7 +26,7 @@
 				window.setTimeout(function() {
 					$body.removeClass('is-loading');
 					if ($('#banner')) {
-						// $('#banner').prepend("<video autoplay loop poster='static/images/banner.jpg' id='bgvid'><source src='static/videos/homevid.webm' type='video/webm'><source src='static/videos/homevid.mp4' type='video/mp4'></video");
+						$('#banner').prepend("<video autoplay loop poster='static/images/banner.jpg' id='bgvid'><source src='static/videos/homevid.webm' type='video/webm'><source src='static/videos/homevid.mp4' type='video/mp4'></video");
 					}
 				}, 0);
 			});

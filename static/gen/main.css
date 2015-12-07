@@ -6,7 +6,7 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 /* Reset */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003537}}
+/* line 537, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
   margin: 0;
   padding: 0;
@@ -16,45 +16,45 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
   vertical-align: baseline;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003537}}
+/* line 537, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
   display: block;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003537}}
+/* line 537, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 body {
   line-height: 1;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003537}}
+/* line 537, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 ol, ul {
   list-style: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003537}}
+/* line 537, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 blockquote, q {
   quotes: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003537}}
+/* line 537, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 blockquote:before, blockquote:after, q:before, q:after {
   content: '';
   content: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003537}}
+/* line 537, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 table {
   border-collapse: collapse;
   border-spacing: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003537}}
+/* line 537, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 body {
   -webkit-text-size-adjust: none;
 }
 
 /* Box Model */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003167}}
+/* line 167, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 *, *:before, *:after {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -62,181 +62,181 @@ body {
 }
 
 /* Containers */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003394}}
+/* line 394, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .container {
   margin-left: auto;
   margin-right: auto;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003221}}
+/* line 221, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .container.\31 25\25 {
   width: 100%;
   max-width: 87.5em;
   min-width: 70em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003222}}
+/* line 222, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .container.\37 5\25 {
   width: 52.5em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003223}}
+/* line 223, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .container.\35 0\25 {
   width: 35em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003224}}
+/* line 224, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .container.\32 5\25 {
   width: 17.5em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003227}}
+/* line 227, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .container {
   width: 70em;
 }
 
 @media screen and (max-width: 1680px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003221}}
+  /* line 221, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .container.\31 25\25 {
     width: 100%;
     max-width: 87.5em;
     min-width: 70em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003222}}
+  /* line 222, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .container.\37 5\25 {
     width: 52.5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003223}}
+  /* line 223, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .container.\35 0\25 {
     width: 35em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003224}}
+  /* line 224, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .container.\32 5\25 {
     width: 17.5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003227}}
+  /* line 227, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .container {
     width: 70em;
   }
 }
 @media screen and (max-width: 1280px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003221}}
+  /* line 221, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .container.\31 25\25 {
     width: 100%;
     max-width: 112.5%;
     min-width: 90%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003222}}
+  /* line 222, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .container.\37 5\25 {
     width: 67.5%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003223}}
+  /* line 223, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .container.\35 0\25 {
     width: 45%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003224}}
+  /* line 224, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .container.\32 5\25 {
     width: 22.5%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003227}}
+  /* line 227, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .container {
     width: 90%;
   }
 }
 @media screen and (max-width: 980px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003221}}
+  /* line 221, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .container.\31 25\25 {
     width: 100%;
     max-width: 125%;
     min-width: 100%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003222}}
+  /* line 222, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .container.\37 5\25 {
     width: 75%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003223}}
+  /* line 223, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .container.\35 0\25 {
     width: 50%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003224}}
+  /* line 224, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .container.\32 5\25 {
     width: 25%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003227}}
+  /* line 227, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .container {
     width: 100% !important;
   }
 }
 @media screen and (max-width: 736px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003221}}
+  /* line 221, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .container.\31 25\25 {
     width: 100%;
     max-width: 125%;
     min-width: 100%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003222}}
+  /* line 222, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .container.\37 5\25 {
     width: 75%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003223}}
+  /* line 223, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .container.\35 0\25 {
     width: 50%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003224}}
+  /* line 224, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .container.\32 5\25 {
     width: 25%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003227}}
+  /* line 227, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .container {
     width: 100% !important;
   }
 }
 @media screen and (max-width: 480px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003221}}
+  /* line 221, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .container.\31 25\25 {
     width: 100%;
     max-width: 125%;
     min-width: 100%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003222}}
+  /* line 222, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .container.\37 5\25 {
     width: 75%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003223}}
+  /* line 223, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .container.\35 0\25 {
     width: 50%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003224}}
+  /* line 224, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .container.\32 5\25 {
     width: 25%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003227}}
+  /* line 227, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .container {
     width: 100% !important;
   }
 }
 /* Grid */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003454}}
+/* line 454, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .row {
   border-bottom: solid 1px transparent;
   -moz-box-sizing: border-box;
@@ -244,7 +244,7 @@ body {
   box-sizing: border-box;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003461}}
+/* line 461, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .row > * {
   float: left;
   -moz-box-sizing: border-box;
@@ -252,7 +252,7 @@ body {
   box-sizing: border-box;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003468}}
+/* line 468, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .row:after, .row:before {
   content: '';
   display: block;
@@ -260,221 +260,221 @@ body {
   height: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003475}}
+/* line 475, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .row.uniform > * > :first-child {
   margin-top: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003479}}
+/* line 479, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .row.uniform > * > :last-child {
   margin-bottom: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003322}}
+/* line 322, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .row.\30 \25  > * {
   padding: 0 0 0 0em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003323}}
+/* line 323, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .row.\30 \25 {
   margin: 0 0 -1px 0em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003326}}
+/* line 326, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .row.uniform.\30 \25  > * {
   padding: 0em 0 0 0em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003327}}
+/* line 327, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .row.uniform.\30 \25 {
   margin: 0em 0 -1px 0em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003322}}
+/* line 322, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .row > * {
   padding: 0 0 0 2.5em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003323}}
+/* line 323, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .row {
   margin: 0 0 -1px -2.5em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003326}}
+/* line 326, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .row.uniform > * {
   padding: 2.5em 0 0 2.5em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003327}}
+/* line 327, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .row.uniform {
   margin: -2.5em 0 -1px -2.5em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003322}}
+/* line 322, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .row.\32 00\25  > * {
   padding: 0 0 0 5em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003323}}
+/* line 323, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .row.\32 00\25 {
   margin: 0 0 -1px -5em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003326}}
+/* line 326, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .row.uniform.\32 00\25  > * {
   padding: 5em 0 0 5em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003327}}
+/* line 327, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .row.uniform.\32 00\25 {
   margin: -5em 0 -1px -5em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003322}}
+/* line 322, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .row.\31 50\25  > * {
   padding: 0 0 0 3.75em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003323}}
+/* line 323, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .row.\31 50\25 {
   margin: 0 0 -1px -3.75em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003326}}
+/* line 326, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .row.uniform.\31 50\25  > * {
   padding: 3.75em 0 0 3.75em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003327}}
+/* line 327, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .row.uniform.\31 50\25 {
   margin: -3.75em 0 -1px -3.75em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003322}}
+/* line 322, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .row.\35 0\25  > * {
   padding: 0 0 0 1.25em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003323}}
+/* line 323, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .row.\35 0\25 {
   margin: 0 0 -1px -1.25em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003326}}
+/* line 326, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .row.uniform.\35 0\25  > * {
   padding: 1.25em 0 0 1.25em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003327}}
+/* line 327, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .row.uniform.\35 0\25 {
   margin: -1.25em 0 -1px -1.25em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003322}}
+/* line 322, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .row.\32 5\25  > * {
   padding: 0 0 0 0.625em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003323}}
+/* line 323, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .row.\32 5\25 {
   margin: 0 0 -1px -0.625em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003326}}
+/* line 326, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .row.uniform.\32 5\25  > * {
   padding: 0.625em 0 0 0.625em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003327}}
+/* line 327, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .row.uniform.\32 5\25 {
   margin: -0.625em 0 -1px -0.625em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003257}}
+/* line 257, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .\31 2u, .\31 2u\24 {
   width: 100%;
   clear: none;
   margin-left: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003258}}
+/* line 258, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .\31 1u, .\31 1u\24 {
   width: 91.6666666667%;
   clear: none;
   margin-left: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003259}}
+/* line 259, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .\31 0u, .\31 0u\24 {
   width: 83.3333333333%;
   clear: none;
   margin-left: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003260}}
+/* line 260, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .\39 u, .\39 u\24 {
   width: 75%;
   clear: none;
   margin-left: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003261}}
+/* line 261, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .\38 u, .\38 u\24 {
   width: 66.6666666667%;
   clear: none;
   margin-left: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003262}}
+/* line 262, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .\37 u, .\37 u\24 {
   width: 58.3333333333%;
   clear: none;
   margin-left: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003263}}
+/* line 263, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .\36 u, .\36 u\24 {
   width: 50%;
   clear: none;
   margin-left: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003264}}
+/* line 264, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .\35 u, .\35 u\24 {
   width: 41.6666666667%;
   clear: none;
   margin-left: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003265}}
+/* line 265, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .\34 u, .\34 u\24 {
   width: 33.3333333333%;
   clear: none;
   margin-left: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003266}}
+/* line 266, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .\33 u, .\33 u\24 {
   width: 25%;
   clear: none;
   margin-left: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003267}}
+/* line 267, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .\32 u, .\32 u\24 {
   width: 16.6666666667%;
   clear: none;
   margin-left: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003268}}
+/* line 268, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .\31 u, .\31 u\24 {
   width: 8.3333333333%;
   clear: none;
   margin-left: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003270}}
+/* line 270, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .\31 2u\24  + *,
 .\31 1u\24  + *,
 .\31 0u\24  + *,
@@ -490,247 +490,247 @@ body {
   clear: left;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003285}}
+/* line 285, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .\-11u {
   margin-left: 91.66667%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003286}}
+/* line 286, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .\-10u {
   margin-left: 83.33333%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003287}}
+/* line 287, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .\-9u {
   margin-left: 75%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003288}}
+/* line 288, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .\-8u {
   margin-left: 66.66667%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003289}}
+/* line 289, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .\-7u {
   margin-left: 58.33333%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003290}}
+/* line 290, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .\-6u {
   margin-left: 50%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003291}}
+/* line 291, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .\-5u {
   margin-left: 41.66667%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003292}}
+/* line 292, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .\-4u {
   margin-left: 33.33333%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003293}}
+/* line 293, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .\-3u {
   margin-left: 25%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003294}}
+/* line 294, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .\-2u {
   margin-left: 16.66667%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003295}}
+/* line 295, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
 .\-1u {
   margin-left: 8.33333%;
 }
 
 @media screen and (max-width: 1680px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003322}}
+  /* line 322, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row > * {
     padding: 0 0 0 2.5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003323}}
+  /* line 323, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row {
     margin: 0 0 -1px -2.5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003326}}
+  /* line 326, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform > * {
     padding: 2.5em 0 0 2.5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003327}}
+  /* line 327, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform {
     margin: -2.5em 0 -1px -2.5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003322}}
+  /* line 322, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\32 00\25  > * {
     padding: 0 0 0 5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003323}}
+  /* line 323, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\32 00\25 {
     margin: 0 0 -1px -5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003326}}
+  /* line 326, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\32 00\25  > * {
     padding: 5em 0 0 5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003327}}
+  /* line 327, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\32 00\25 {
     margin: -5em 0 -1px -5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003322}}
+  /* line 322, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\31 50\25  > * {
     padding: 0 0 0 3.75em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003323}}
+  /* line 323, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\31 50\25 {
     margin: 0 0 -1px -3.75em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003326}}
+  /* line 326, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\31 50\25  > * {
     padding: 3.75em 0 0 3.75em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003327}}
+  /* line 327, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\31 50\25 {
     margin: -3.75em 0 -1px -3.75em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003322}}
+  /* line 322, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\35 0\25  > * {
     padding: 0 0 0 1.25em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003323}}
+  /* line 323, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\35 0\25 {
     margin: 0 0 -1px -1.25em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003326}}
+  /* line 326, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\35 0\25  > * {
     padding: 1.25em 0 0 1.25em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003327}}
+  /* line 327, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\35 0\25 {
     margin: -1.25em 0 -1px -1.25em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003322}}
+  /* line 322, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\32 5\25  > * {
     padding: 0 0 0 0.625em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003323}}
+  /* line 323, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\32 5\25 {
     margin: 0 0 -1px -0.625em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003326}}
+  /* line 326, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\32 5\25  > * {
     padding: 0.625em 0 0 0.625em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003327}}
+  /* line 327, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\32 5\25 {
     margin: -0.625em 0 -1px -0.625em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003257}}
+  /* line 257, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\31 2u\28xlarge\29, .\31 2u\24\28xlarge\29 {
     width: 100%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003258}}
+  /* line 258, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\31 1u\28xlarge\29, .\31 1u\24\28xlarge\29 {
     width: 91.6666666667%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003259}}
+  /* line 259, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\31 0u\28xlarge\29, .\31 0u\24\28xlarge\29 {
     width: 83.3333333333%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003260}}
+  /* line 260, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\39 u\28xlarge\29, .\39 u\24\28xlarge\29 {
     width: 75%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003261}}
+  /* line 261, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\38 u\28xlarge\29, .\38 u\24\28xlarge\29 {
     width: 66.6666666667%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003262}}
+  /* line 262, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\37 u\28xlarge\29, .\37 u\24\28xlarge\29 {
     width: 58.3333333333%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003263}}
+  /* line 263, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\36 u\28xlarge\29, .\36 u\24\28xlarge\29 {
     width: 50%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003264}}
+  /* line 264, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\35 u\28xlarge\29, .\35 u\24\28xlarge\29 {
     width: 41.6666666667%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003265}}
+  /* line 265, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\34 u\28xlarge\29, .\34 u\24\28xlarge\29 {
     width: 33.3333333333%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003266}}
+  /* line 266, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\33 u\28xlarge\29, .\33 u\24\28xlarge\29 {
     width: 25%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003267}}
+  /* line 267, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\32 u\28xlarge\29, .\32 u\24\28xlarge\29 {
     width: 16.6666666667%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003268}}
+  /* line 268, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\31 u\28xlarge\29, .\31 u\24\28xlarge\29 {
     width: 8.3333333333%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003270}}
+  /* line 270, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\31 2u\24\28xlarge\29  + *,
   .\31 1u\24\28xlarge\29  + *,
   .\31 0u\24\28xlarge\29  + *,
@@ -746,247 +746,247 @@ body {
     clear: left;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003285}}
+  /* line 285, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-11u\28xlarge\29 {
     margin-left: 91.66667%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003286}}
+  /* line 286, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-10u\28xlarge\29 {
     margin-left: 83.33333%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003287}}
+  /* line 287, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-9u\28xlarge\29 {
     margin-left: 75%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003288}}
+  /* line 288, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-8u\28xlarge\29 {
     margin-left: 66.66667%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003289}}
+  /* line 289, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-7u\28xlarge\29 {
     margin-left: 58.33333%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003290}}
+  /* line 290, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-6u\28xlarge\29 {
     margin-left: 50%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003291}}
+  /* line 291, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-5u\28xlarge\29 {
     margin-left: 41.66667%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003292}}
+  /* line 292, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-4u\28xlarge\29 {
     margin-left: 33.33333%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003293}}
+  /* line 293, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-3u\28xlarge\29 {
     margin-left: 25%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003294}}
+  /* line 294, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-2u\28xlarge\29 {
     margin-left: 16.66667%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003295}}
+  /* line 295, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-1u\28xlarge\29 {
     margin-left: 8.33333%;
   }
 }
 @media screen and (max-width: 1280px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003322}}
+  /* line 322, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row > * {
     padding: 0 0 0 2.5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003323}}
+  /* line 323, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row {
     margin: 0 0 -1px -2.5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003326}}
+  /* line 326, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform > * {
     padding: 2.5em 0 0 2.5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003327}}
+  /* line 327, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform {
     margin: -2.5em 0 -1px -2.5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003322}}
+  /* line 322, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\32 00\25  > * {
     padding: 0 0 0 5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003323}}
+  /* line 323, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\32 00\25 {
     margin: 0 0 -1px -5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003326}}
+  /* line 326, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\32 00\25  > * {
     padding: 5em 0 0 5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003327}}
+  /* line 327, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\32 00\25 {
     margin: -5em 0 -1px -5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003322}}
+  /* line 322, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\31 50\25  > * {
     padding: 0 0 0 3.75em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003323}}
+  /* line 323, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\31 50\25 {
     margin: 0 0 -1px -3.75em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003326}}
+  /* line 326, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\31 50\25  > * {
     padding: 3.75em 0 0 3.75em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003327}}
+  /* line 327, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\31 50\25 {
     margin: -3.75em 0 -1px -3.75em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003322}}
+  /* line 322, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\35 0\25  > * {
     padding: 0 0 0 1.25em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003323}}
+  /* line 323, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\35 0\25 {
     margin: 0 0 -1px -1.25em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003326}}
+  /* line 326, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\35 0\25  > * {
     padding: 1.25em 0 0 1.25em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003327}}
+  /* line 327, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\35 0\25 {
     margin: -1.25em 0 -1px -1.25em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003322}}
+  /* line 322, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\32 5\25  > * {
     padding: 0 0 0 0.625em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003323}}
+  /* line 323, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\32 5\25 {
     margin: 0 0 -1px -0.625em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003326}}
+  /* line 326, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\32 5\25  > * {
     padding: 0.625em 0 0 0.625em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003327}}
+  /* line 327, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\32 5\25 {
     margin: -0.625em 0 -1px -0.625em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003257}}
+  /* line 257, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\31 2u\28large\29, .\31 2u\24\28large\29 {
     width: 100%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003258}}
+  /* line 258, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\31 1u\28large\29, .\31 1u\24\28large\29 {
     width: 91.6666666667%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003259}}
+  /* line 259, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\31 0u\28large\29, .\31 0u\24\28large\29 {
     width: 83.3333333333%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003260}}
+  /* line 260, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\39 u\28large\29, .\39 u\24\28large\29 {
     width: 75%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003261}}
+  /* line 261, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\38 u\28large\29, .\38 u\24\28large\29 {
     width: 66.6666666667%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003262}}
+  /* line 262, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\37 u\28large\29, .\37 u\24\28large\29 {
     width: 58.3333333333%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003263}}
+  /* line 263, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\36 u\28large\29, .\36 u\24\28large\29 {
     width: 50%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003264}}
+  /* line 264, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\35 u\28large\29, .\35 u\24\28large\29 {
     width: 41.6666666667%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003265}}
+  /* line 265, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\34 u\28large\29, .\34 u\24\28large\29 {
     width: 33.3333333333%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003266}}
+  /* line 266, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\33 u\28large\29, .\33 u\24\28large\29 {
     width: 25%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003267}}
+  /* line 267, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\32 u\28large\29, .\32 u\24\28large\29 {
     width: 16.6666666667%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003268}}
+  /* line 268, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\31 u\28large\29, .\31 u\24\28large\29 {
     width: 8.3333333333%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003270}}
+  /* line 270, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\31 2u\24\28large\29  + *,
   .\31 1u\24\28large\29  + *,
   .\31 0u\24\28large\29  + *,
@@ -1002,247 +1002,247 @@ body {
     clear: left;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003285}}
+  /* line 285, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-11u\28large\29 {
     margin-left: 91.66667%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003286}}
+  /* line 286, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-10u\28large\29 {
     margin-left: 83.33333%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003287}}
+  /* line 287, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-9u\28large\29 {
     margin-left: 75%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003288}}
+  /* line 288, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-8u\28large\29 {
     margin-left: 66.66667%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003289}}
+  /* line 289, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-7u\28large\29 {
     margin-left: 58.33333%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003290}}
+  /* line 290, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-6u\28large\29 {
     margin-left: 50%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003291}}
+  /* line 291, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-5u\28large\29 {
     margin-left: 41.66667%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003292}}
+  /* line 292, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-4u\28large\29 {
     margin-left: 33.33333%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003293}}
+  /* line 293, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-3u\28large\29 {
     margin-left: 25%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003294}}
+  /* line 294, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-2u\28large\29 {
     margin-left: 16.66667%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003295}}
+  /* line 295, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-1u\28large\29 {
     margin-left: 8.33333%;
   }
 }
 @media screen and (max-width: 980px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003322}}
+  /* line 322, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row > * {
     padding: 0 0 0 2.5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003323}}
+  /* line 323, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row {
     margin: 0 0 -1px -2.5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003326}}
+  /* line 326, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform > * {
     padding: 2.5em 0 0 2.5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003327}}
+  /* line 327, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform {
     margin: -2.5em 0 -1px -2.5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003322}}
+  /* line 322, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\32 00\25  > * {
     padding: 0 0 0 5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003323}}
+  /* line 323, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\32 00\25 {
     margin: 0 0 -1px -5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003326}}
+  /* line 326, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\32 00\25  > * {
     padding: 5em 0 0 5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003327}}
+  /* line 327, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\32 00\25 {
     margin: -5em 0 -1px -5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003322}}
+  /* line 322, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\31 50\25  > * {
     padding: 0 0 0 3.75em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003323}}
+  /* line 323, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\31 50\25 {
     margin: 0 0 -1px -3.75em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003326}}
+  /* line 326, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\31 50\25  > * {
     padding: 3.75em 0 0 3.75em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003327}}
+  /* line 327, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\31 50\25 {
     margin: -3.75em 0 -1px -3.75em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003322}}
+  /* line 322, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\35 0\25  > * {
     padding: 0 0 0 1.25em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003323}}
+  /* line 323, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\35 0\25 {
     margin: 0 0 -1px -1.25em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003326}}
+  /* line 326, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\35 0\25  > * {
     padding: 1.25em 0 0 1.25em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003327}}
+  /* line 327, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\35 0\25 {
     margin: -1.25em 0 -1px -1.25em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003322}}
+  /* line 322, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\32 5\25  > * {
     padding: 0 0 0 0.625em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003323}}
+  /* line 323, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\32 5\25 {
     margin: 0 0 -1px -0.625em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003326}}
+  /* line 326, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\32 5\25  > * {
     padding: 0.625em 0 0 0.625em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003327}}
+  /* line 327, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\32 5\25 {
     margin: -0.625em 0 -1px -0.625em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003257}}
+  /* line 257, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\31 2u\28medium\29, .\31 2u\24\28medium\29 {
     width: 100%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003258}}
+  /* line 258, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\31 1u\28medium\29, .\31 1u\24\28medium\29 {
     width: 91.6666666667%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003259}}
+  /* line 259, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\31 0u\28medium\29, .\31 0u\24\28medium\29 {
     width: 83.3333333333%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003260}}
+  /* line 260, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\39 u\28medium\29, .\39 u\24\28medium\29 {
     width: 75%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003261}}
+  /* line 261, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\38 u\28medium\29, .\38 u\24\28medium\29 {
     width: 66.6666666667%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003262}}
+  /* line 262, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\37 u\28medium\29, .\37 u\24\28medium\29 {
     width: 58.3333333333%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003263}}
+  /* line 263, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\36 u\28medium\29, .\36 u\24\28medium\29 {
     width: 50%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003264}}
+  /* line 264, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\35 u\28medium\29, .\35 u\24\28medium\29 {
     width: 41.6666666667%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003265}}
+  /* line 265, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\34 u\28medium\29, .\34 u\24\28medium\29 {
     width: 33.3333333333%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003266}}
+  /* line 266, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\33 u\28medium\29, .\33 u\24\28medium\29 {
     width: 25%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003267}}
+  /* line 267, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\32 u\28medium\29, .\32 u\24\28medium\29 {
     width: 16.6666666667%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003268}}
+  /* line 268, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\31 u\28medium\29, .\31 u\24\28medium\29 {
     width: 8.3333333333%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003270}}
+  /* line 270, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\31 2u\24\28medium\29  + *,
   .\31 1u\24\28medium\29  + *,
   .\31 0u\24\28medium\29  + *,
@@ -1258,247 +1258,247 @@ body {
     clear: left;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003285}}
+  /* line 285, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-11u\28medium\29 {
     margin-left: 91.66667%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003286}}
+  /* line 286, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-10u\28medium\29 {
     margin-left: 83.33333%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003287}}
+  /* line 287, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-9u\28medium\29 {
     margin-left: 75%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003288}}
+  /* line 288, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-8u\28medium\29 {
     margin-left: 66.66667%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003289}}
+  /* line 289, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-7u\28medium\29 {
     margin-left: 58.33333%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003290}}
+  /* line 290, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-6u\28medium\29 {
     margin-left: 50%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003291}}
+  /* line 291, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-5u\28medium\29 {
     margin-left: 41.66667%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003292}}
+  /* line 292, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-4u\28medium\29 {
     margin-left: 33.33333%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003293}}
+  /* line 293, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-3u\28medium\29 {
     margin-left: 25%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003294}}
+  /* line 294, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-2u\28medium\29 {
     margin-left: 16.66667%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003295}}
+  /* line 295, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-1u\28medium\29 {
     margin-left: 8.33333%;
   }
 }
 @media screen and (max-width: 736px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003322}}
+  /* line 322, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row > * {
     padding: 0 0 0 2.5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003323}}
+  /* line 323, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row {
     margin: 0 0 -1px -2.5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003326}}
+  /* line 326, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform > * {
     padding: 2.5em 0 0 2.5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003327}}
+  /* line 327, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform {
     margin: -2.5em 0 -1px -2.5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003322}}
+  /* line 322, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\32 00\25  > * {
     padding: 0 0 0 5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003323}}
+  /* line 323, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\32 00\25 {
     margin: 0 0 -1px -5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003326}}
+  /* line 326, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\32 00\25  > * {
     padding: 5em 0 0 5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003327}}
+  /* line 327, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\32 00\25 {
     margin: -5em 0 -1px -5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003322}}
+  /* line 322, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\31 50\25  > * {
     padding: 0 0 0 3.75em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003323}}
+  /* line 323, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\31 50\25 {
     margin: 0 0 -1px -3.75em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003326}}
+  /* line 326, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\31 50\25  > * {
     padding: 3.75em 0 0 3.75em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003327}}
+  /* line 327, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\31 50\25 {
     margin: -3.75em 0 -1px -3.75em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003322}}
+  /* line 322, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\35 0\25  > * {
     padding: 0 0 0 1.25em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003323}}
+  /* line 323, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\35 0\25 {
     margin: 0 0 -1px -1.25em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003326}}
+  /* line 326, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\35 0\25  > * {
     padding: 1.25em 0 0 1.25em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003327}}
+  /* line 327, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\35 0\25 {
     margin: -1.25em 0 -1px -1.25em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003322}}
+  /* line 322, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\32 5\25  > * {
     padding: 0 0 0 0.625em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003323}}
+  /* line 323, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\32 5\25 {
     margin: 0 0 -1px -0.625em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003326}}
+  /* line 326, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\32 5\25  > * {
     padding: 0.625em 0 0 0.625em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003327}}
+  /* line 327, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\32 5\25 {
     margin: -0.625em 0 -1px -0.625em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003257}}
+  /* line 257, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\31 2u\28small\29, .\31 2u\24\28small\29 {
     width: 100%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003258}}
+  /* line 258, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\31 1u\28small\29, .\31 1u\24\28small\29 {
     width: 91.6666666667%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003259}}
+  /* line 259, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\31 0u\28small\29, .\31 0u\24\28small\29 {
     width: 83.3333333333%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003260}}
+  /* line 260, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\39 u\28small\29, .\39 u\24\28small\29 {
     width: 75%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003261}}
+  /* line 261, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\38 u\28small\29, .\38 u\24\28small\29 {
     width: 66.6666666667%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003262}}
+  /* line 262, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\37 u\28small\29, .\37 u\24\28small\29 {
     width: 58.3333333333%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003263}}
+  /* line 263, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\36 u\28small\29, .\36 u\24\28small\29 {
     width: 50%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003264}}
+  /* line 264, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\35 u\28small\29, .\35 u\24\28small\29 {
     width: 41.6666666667%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003265}}
+  /* line 265, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\34 u\28small\29, .\34 u\24\28small\29 {
     width: 33.3333333333%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003266}}
+  /* line 266, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\33 u\28small\29, .\33 u\24\28small\29 {
     width: 25%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003267}}
+  /* line 267, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\32 u\28small\29, .\32 u\24\28small\29 {
     width: 16.6666666667%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003268}}
+  /* line 268, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\31 u\28small\29, .\31 u\24\28small\29 {
     width: 8.3333333333%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003270}}
+  /* line 270, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\31 2u\24\28small\29  + *,
   .\31 1u\24\28small\29  + *,
   .\31 0u\24\28small\29  + *,
@@ -1514,247 +1514,247 @@ body {
     clear: left;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003285}}
+  /* line 285, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-11u\28small\29 {
     margin-left: 91.66667%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003286}}
+  /* line 286, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-10u\28small\29 {
     margin-left: 83.33333%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003287}}
+  /* line 287, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-9u\28small\29 {
     margin-left: 75%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003288}}
+  /* line 288, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-8u\28small\29 {
     margin-left: 66.66667%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003289}}
+  /* line 289, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-7u\28small\29 {
     margin-left: 58.33333%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003290}}
+  /* line 290, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-6u\28small\29 {
     margin-left: 50%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003291}}
+  /* line 291, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-5u\28small\29 {
     margin-left: 41.66667%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003292}}
+  /* line 292, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-4u\28small\29 {
     margin-left: 33.33333%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003293}}
+  /* line 293, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-3u\28small\29 {
     margin-left: 25%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003294}}
+  /* line 294, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-2u\28small\29 {
     margin-left: 16.66667%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003295}}
+  /* line 295, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-1u\28small\29 {
     margin-left: 8.33333%;
   }
 }
 @media screen and (max-width: 480px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003322}}
+  /* line 322, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row > * {
     padding: 0 0 0 2.5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003323}}
+  /* line 323, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row {
     margin: 0 0 -1px -2.5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003326}}
+  /* line 326, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform > * {
     padding: 2.5em 0 0 2.5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003327}}
+  /* line 327, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform {
     margin: -2.5em 0 -1px -2.5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003322}}
+  /* line 322, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\32 00\25  > * {
     padding: 0 0 0 5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003323}}
+  /* line 323, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\32 00\25 {
     margin: 0 0 -1px -5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003326}}
+  /* line 326, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\32 00\25  > * {
     padding: 5em 0 0 5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003327}}
+  /* line 327, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\32 00\25 {
     margin: -5em 0 -1px -5em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003322}}
+  /* line 322, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\31 50\25  > * {
     padding: 0 0 0 3.75em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003323}}
+  /* line 323, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\31 50\25 {
     margin: 0 0 -1px -3.75em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003326}}
+  /* line 326, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\31 50\25  > * {
     padding: 3.75em 0 0 3.75em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003327}}
+  /* line 327, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\31 50\25 {
     margin: -3.75em 0 -1px -3.75em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003322}}
+  /* line 322, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\35 0\25  > * {
     padding: 0 0 0 1.25em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003323}}
+  /* line 323, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\35 0\25 {
     margin: 0 0 -1px -1.25em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003326}}
+  /* line 326, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\35 0\25  > * {
     padding: 1.25em 0 0 1.25em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003327}}
+  /* line 327, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\35 0\25 {
     margin: -1.25em 0 -1px -1.25em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003322}}
+  /* line 322, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\32 5\25  > * {
     padding: 0 0 0 0.625em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003323}}
+  /* line 323, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.\32 5\25 {
     margin: 0 0 -1px -0.625em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003326}}
+  /* line 326, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\32 5\25  > * {
     padding: 0.625em 0 0 0.625em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003327}}
+  /* line 327, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .row.uniform.\32 5\25 {
     margin: -0.625em 0 -1px -0.625em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003257}}
+  /* line 257, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\31 2u\28xsmall\29, .\31 2u\24\28xsmall\29 {
     width: 100%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003258}}
+  /* line 258, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\31 1u\28xsmall\29, .\31 1u\24\28xsmall\29 {
     width: 91.6666666667%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003259}}
+  /* line 259, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\31 0u\28xsmall\29, .\31 0u\24\28xsmall\29 {
     width: 83.3333333333%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003260}}
+  /* line 260, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\39 u\28xsmall\29, .\39 u\24\28xsmall\29 {
     width: 75%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003261}}
+  /* line 261, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\38 u\28xsmall\29, .\38 u\24\28xsmall\29 {
     width: 66.6666666667%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003262}}
+  /* line 262, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\37 u\28xsmall\29, .\37 u\24\28xsmall\29 {
     width: 58.3333333333%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003263}}
+  /* line 263, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\36 u\28xsmall\29, .\36 u\24\28xsmall\29 {
     width: 50%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003264}}
+  /* line 264, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\35 u\28xsmall\29, .\35 u\24\28xsmall\29 {
     width: 41.6666666667%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003265}}
+  /* line 265, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\34 u\28xsmall\29, .\34 u\24\28xsmall\29 {
     width: 33.3333333333%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003266}}
+  /* line 266, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\33 u\28xsmall\29, .\33 u\24\28xsmall\29 {
     width: 25%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003267}}
+  /* line 267, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\32 u\28xsmall\29, .\32 u\24\28xsmall\29 {
     width: 16.6666666667%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003268}}
+  /* line 268, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\31 u\28xsmall\29, .\31 u\24\28xsmall\29 {
     width: 8.3333333333%;
     clear: none;
     margin-left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003270}}
+  /* line 270, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\31 2u\24\28xsmall\29  + *,
   .\31 1u\24\28xsmall\29  + *,
   .\31 0u\24\28xsmall\29  + *,
@@ -1770,68 +1770,68 @@ body {
     clear: left;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003285}}
+  /* line 285, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-11u\28xsmall\29 {
     margin-left: 91.66667%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003286}}
+  /* line 286, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-10u\28xsmall\29 {
     margin-left: 83.33333%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003287}}
+  /* line 287, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-9u\28xsmall\29 {
     margin-left: 75%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003288}}
+  /* line 288, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-8u\28xsmall\29 {
     margin-left: 66.66667%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003289}}
+  /* line 289, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-7u\28xsmall\29 {
     margin-left: 58.33333%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003290}}
+  /* line 290, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-6u\28xsmall\29 {
     margin-left: 50%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003291}}
+  /* line 291, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-5u\28xsmall\29 {
     margin-left: 41.66667%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003292}}
+  /* line 292, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-4u\28xsmall\29 {
     margin-left: 33.33333%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003293}}
+  /* line 293, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-3u\28xsmall\29 {
     margin-left: 25%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003294}}
+  /* line 294, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-2u\28xsmall\29 {
     margin-left: 16.66667%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_skel\.scss}line{font-family:\00003295}}
+  /* line 295, /home/ubuntu/technicolor_world/static/css/libs/_skel.scss */
   .\-1u\28xsmall\29 {
     margin-left: 8.33333%;
   }
 }
 /* Basic */
-@media -sass-debug-info{filename{}line{font-family:\0000358}}
+/* line 58 */
 html, body {
   background: #fff;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\0000364}}
+/* line 64 */
 body.is-loading *, body.is-loading *:before, body.is-loading *:after {
   -moz-animation: none !important;
   -webkit-animation: none !important;
@@ -1843,7 +1843,7 @@ body.is-loading *, body.is-loading *:before, body.is-loading *:after {
   transition: none !important;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\0000371}}
+/* line 71 */
 body, input, select, textarea {
   color: rgba(20, 20, 20, 0.75);
   font-family: Helvetica, sans-serif;
@@ -1852,7 +1852,7 @@ body, input, select, textarea {
   line-height: 1.75em;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\0000379}}
+/* line 79 */
 a {
   -moz-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
   -webkit-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
@@ -1865,102 +1865,102 @@ a {
   color: #4CB1E4;
   text-decoration: none;
 }
-@media -sass-debug-info{filename{}line{font-family:\0000388}}
+/* line 88 */
 a.invisible {
   border-bottom: none;
 }
-@media -sass-debug-info{filename{}line{font-family:\0000392}}
+/* line 92 */
 a:hover {
   color: #4CB1E4 !important;
   border-bottom-color: transparent;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\0000398}}
+/* line 98 */
 strong, b {
   color: #282828;
   font-weight: 300;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\00003103}}
+/* line 103 */
 em, i {
   font-style: italic;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\00003107}}
+/* line 107 */
 p {
   margin: 0 0 2em 0;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\00003111}}
+/* line 111 */
 h1, h2, h3, h4, h5, h6 {
   color: #282828;
   font-weight: 300;
   line-height: 1em;
   margin: 0 0 1em 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003117}}
+/* line 117 */
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   color: inherit;
   border: 0;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\00003123}}
+/* line 123 */
 h2 {
   font-size: 2em;
   line-height: 1.5em;
   letter-spacing: -0.025em;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\00003129}}
+/* line 129 */
 h3 {
   font-size: 1.35em;
   line-height: 1.5em;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\00003134}}
+/* line 134 */
 h4 {
   font-size: 1.1em;
   line-height: 1.5em;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\00003139}}
+/* line 139 */
 h5 {
   font-size: 0.9em;
   line-height: 1.5em;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\00003144}}
+/* line 144 */
 h6 {
   font-size: 0.7em;
   line-height: 1.5em;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\00003149}}
+/* line 149 */
 sub {
   font-size: 0.8em;
   position: relative;
   top: 0.5em;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\00003155}}
+/* line 155 */
 sup {
   font-size: 0.8em;
   position: relative;
   top: -0.5em;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\00003161}}
+/* line 161 */
 hr {
   border: 0;
   border-bottom: solid 1px rgba(100, 100, 100, 0.3);
   margin: 3em 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003166}}
+/* line 166 */
 hr.major {
   margin: 4em 0;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\00003171}}
+/* line 171 */
 blockquote {
   border-left: solid 4px rgba(100, 100, 100, 0.3);
   font-style: italic;
@@ -1968,7 +1968,7 @@ blockquote {
   padding: 0.5em 0 0.5em 2em;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\00003178}}
+/* line 178 */
 code {
   background: rgba(100, 100, 100, 0.075);
   border-radius: 4px;
@@ -1978,14 +1978,14 @@ code {
   padding: 0.25em 0.65em;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\00003187}}
+/* line 187 */
 pre {
   -webkit-overflow-scrolling: touch;
   font-family: "Courier New", monospace;
   font-size: 0.9em;
   margin: 0 0 2em 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003193}}
+/* line 193 */
 pre code {
   display: block;
   line-height: 1.75em;
@@ -1993,17 +1993,17 @@ pre code {
   overflow-x: auto;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\00003201}}
+/* line 201 */
 .align-left {
   text-align: left;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\00003205}}
+/* line 205 */
 .align-center {
   text-align: center;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\00003209}}
+/* line 209 */
 .align-right {
   text-align: right;
 }
@@ -2273,11 +2273,11 @@ pre code {
     z-index: -1;
   }
 }
-@media -sass-debug-info{filename{}line{font-family:\00003242}}
+/* line 242 */
 body.landing {
   text-decoration: none;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_mixins\.scss}line{font-family:\000037}}
+/* line 7, /home/ubuntu/technicolor_world/static/css/libs/_mixins.scss */
 body.landing:before {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
@@ -2286,7 +2286,7 @@ body.landing:before {
   font-weight: normal;
   text-transform: none !important;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003247}}
+/* line 247 */
 body.landing:before {
   -moz-animation: spinner-show 1.5s 1 0.25s ease forwards, spinner-hide 0.25s ease-in-out forwards !important;
   -webkit-animation: spinner-show 1.5s 1 0.25s ease forwards, spinner-hide 0.25s ease-in-out forwards !important;
@@ -2312,7 +2312,7 @@ body.landing:before {
   width: 2em;
   z-index: -1;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003270}}
+/* line 270 */
 body.landing:after {
   -moz-animation: overlay-hide 0.5s ease-in forwards !important;
   -webkit-animation: overlay-hide 0.5s ease-in forwards !important;
@@ -2331,46 +2331,46 @@ body.landing:after {
 }
 
 @media (-webkit-min-device-pixel-ratio: 2) {
-@media -sass-debug-info{filename{}line{font-family:\00003305}}
+  /* line 305 */
   body.landing:before {
     line-height: 2.025em;
   }
 }
 /* Section/Article */
-@media -sass-debug-info{filename{}line{font-family:\00003313}}
+/* line 313 */
 section.special, article.special {
   text-align: center;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\00003317}}
+/* line 317 */
 #logo img, .title img {
   vertical-align: middle;
   height: 40px;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\00003322}}
+/* line 322 */
 header #logo {
   margin-left: .25em !important;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003326}}
+/* line 326 */
 header p {
   color: #282828;
   position: relative;
   margin: 0 0 1.5em 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003332}}
+/* line 332 */
 header h2 + p {
   font-size: 1.25em;
   margin-top: -1em;
   line-height: 1.75em;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003338}}
+/* line 338 */
 header h3 + p {
   font-size: 1.1em;
   margin-top: -0.8em;
   line-height: 1.75em;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003344}}
+/* line 344 */
 header h4 + p,
 header h5 + p,
 header h6 + p {
@@ -2378,13 +2378,13 @@ header h6 + p {
   margin-top: -0.6em;
   line-height: 1.5em;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003352}}
+/* line 352 */
 header.major {
   margin: 0 0 4em 0;
   position: relative;
   text-align: center;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003357}}
+/* line 357 */
 header.major:after {
   background: #4CB1E4;
   content: '';
@@ -2394,18 +2394,18 @@ header.major:after {
   width: 75%;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\00003369}}
+/* line 369 */
 footer.major {
   margin: 4em 0 0 0;
 }
 
 /* Form */
-@media -sass-debug-info{filename{}line{font-family:\00003376}}
+/* line 376 */
 form {
   margin: 0 0 2em 0;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\00003380}}
+/* line 380 */
 label {
   color: #282828;
   display: block;
@@ -2414,7 +2414,7 @@ label {
   margin: 0 0 1em 0;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\00003388}}
+/* line 388 */
 input[type="text"],
 input[type="password"],
 input[type="email"],
@@ -2438,7 +2438,7 @@ textarea {
   text-decoration: none;
   width: 100%;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003405}}
+/* line 405 */
 input[type="text"]:invalid,
 input[type="password"]:invalid,
 input[type="email"]:invalid,
@@ -2446,7 +2446,7 @@ select:invalid,
 textarea:invalid {
   box-shadow: none;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003409}}
+/* line 409 */
 input[type="text"]:focus,
 input[type="password"]:focus,
 input[type="email"]:focus,
@@ -2455,13 +2455,13 @@ textarea:focus {
   border-color: #4CB1E4;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\00003414}}
+/* line 414 */
 .select-wrapper {
   text-decoration: none;
   display: block;
   position: relative;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_mixins\.scss}line{font-family:\000037}}
+/* line 7, /home/ubuntu/technicolor_world/static/css/libs/_mixins.scss */
 .select-wrapper:before {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
@@ -2470,7 +2470,7 @@ textarea:focus {
   font-weight: normal;
   text-transform: none !important;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003419}}
+/* line 419 */
 .select-wrapper:before {
   color: rgba(100, 100, 100, 0.3);
   content: '\f078';
@@ -2484,12 +2484,12 @@ textarea:focus {
   top: 0;
   width: 3em;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003433}}
+/* line 433 */
 .select-wrapper select::-ms-expand {
   display: none;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\00003438}}
+/* line 438 */
 input[type="text"],
 input[type="password"],
 input[type="email"],
@@ -2497,22 +2497,22 @@ select {
   height: 3em;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\00003445}}
+/* line 445 */
 textarea {
   padding: 0.75em 1em;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\00003450}}
+/* line 450 */
 select option {
   background-color: #fff;
   color: #282828;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003456}}
+/* line 456 */
 select:focus::-ms-value {
   background: transparent;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\00003462}}
+/* line 462 */
 input[type="checkbox"],
 input[type="radio"] {
   -moz-appearance: none;
@@ -2526,7 +2526,7 @@ input[type="radio"] {
   width: 1em;
   z-index: -1;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003472}}
+/* line 472 */
 input[type="checkbox"] + label,
 input[type="radio"] + label {
   text-decoration: none;
@@ -2539,7 +2539,7 @@ input[type="radio"] + label {
   padding-right: 0.75em;
   position: relative;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_mixins\.scss}line{font-family:\000037}}
+/* line 7, /home/ubuntu/technicolor_world/static/css/libs/_mixins.scss */
 input[type="checkbox"] + label:before,
 input[type="radio"] + label:before {
   -moz-osx-font-smoothing: grayscale;
@@ -2549,7 +2549,7 @@ input[type="radio"] + label:before {
   font-weight: normal;
   text-transform: none !important;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003483}}
+/* line 483 */
 input[type="checkbox"] + label:before,
 input[type="radio"] + label:before {
   border-radius: 4px;
@@ -2564,74 +2564,74 @@ input[type="radio"] + label:before {
   top: 0;
   width: 1.8em;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003499}}
+/* line 499 */
 input[type="checkbox"]:checked + label:before,
 input[type="radio"]:checked + label:before {
   background: rgba(100, 100, 100, 0.25);
   color: #282828;
   content: '\f00c';
 }
-@media -sass-debug-info{filename{}line{font-family:\00003507}}
+/* line 507 */
 input[type="checkbox"]:focus + label:before,
 input[type="radio"]:focus + label:before {
   border-color: #4CB1E4;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\00003515}}
+/* line 515 */
 input[type="checkbox"] + label:before {
   border-radius: 4px;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\00003523}}
+/* line 523 */
 input[type="radio"] + label:before {
   border-radius: 100%;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\00003529}}
+/* line 529 */
 ::-webkit-input-placeholder {
   color: rgba(20, 20, 20, 0.5) !important;
   opacity: 1.0;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\00003534}}
+/* line 534 */
 :-moz-placeholder {
   color: rgba(20, 20, 20, 0.5) !important;
   opacity: 1.0;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\00003539}}
+/* line 539 */
 ::-moz-placeholder {
   color: rgba(20, 20, 20, 0.5) !important;
   opacity: 1.0;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\00003544}}
+/* line 544 */
 :-ms-input-placeholder {
   color: rgba(20, 20, 20, 0.5) !important;
   opacity: 1.0;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\00003549}}
+/* line 549 */
 .formerize-placeholder {
   color: rgba(20, 20, 20, 0.5) !important;
   opacity: 1.0;
 }
 
 /* Box */
-@media -sass-debug-info{filename{}line{font-family:\00003556}}
+/* line 556 */
 .box {
   border-radius: 4px;
   border: solid 1px rgba(100, 100, 100, 0.3);
   margin-bottom: 2em;
   padding: 1.5em;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003562}}
+/* line 562 */
 .box > :last-child,
 .box > :last-child > :last-child,
 .box > :last-child > :last-child > :last-child {
   margin-bottom: 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003568}}
+/* line 568 */
 .box.alt {
   border: 0;
   border-radius: 0;
@@ -2639,13 +2639,13 @@ input[type="radio"] + label:before {
 }
 
 /* Icon */
-@media -sass-debug-info{filename{}line{font-family:\00003577}}
+/* line 577 */
 .icon {
   text-decoration: none;
   border-bottom: none;
   position: relative;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_mixins\.scss}line{font-family:\000037}}
+/* line 7, /home/ubuntu/technicolor_world/static/css/libs/_mixins.scss */
 .icon:before {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
@@ -2654,15 +2654,15 @@ input[type="radio"] + label:before {
   font-weight: normal;
   text-transform: none !important;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003582}}
+/* line 582 */
 .icon > .label {
   display: none;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003586}}
+/* line 586 */
 .icon.alt {
   text-decoration: none;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_mixins\.scss}line{font-family:\000037}}
+/* line 7, /home/ubuntu/technicolor_world/static/css/libs/_mixins.scss */
 .icon.alt:before {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
@@ -2671,12 +2671,12 @@ input[type="radio"] + label:before {
   font-weight: normal;
   text-transform: none !important;
 }
-@media -sass-debug-info{filename{}line{font-family:\0000344}}
+/* line 44 */
 .icon.alt:before {
   color: #fff !important;
   text-shadow: 1px 0 0 #282828, -1px 0 0 #282828, 0 1px 0 #282828, 0 -1px 0 #282828;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003590}}
+/* line 590 */
 .icon.major {
   background: #D3D4D6;
   border-radius: 100%;
@@ -2688,15 +2688,15 @@ input[type="radio"] + label:before {
   text-align: center;
   width: 6em;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003601}}
+/* line 601 */
 .icon.major:before {
   font-size: 2.25em;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003605}}
+/* line 605 */
 .icon.major.alt {
   text-decoration: none;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_mixins\.scss}line{font-family:\000037}}
+/* line 7, /home/ubuntu/technicolor_world/static/css/libs/_mixins.scss */
 .icon.major.alt:before {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
@@ -2705,14 +2705,14 @@ input[type="radio"] + label:before {
   font-weight: normal;
   text-transform: none !important;
 }
-@media -sass-debug-info{filename{}line{font-family:\0000344}}
+/* line 44 */
 .icon.major.alt:before {
   color: #D3D4D6 !important;
   text-shadow: 1px 0 0 #282828, -1px 0 0 #282828, 0 1px 0 #282828, 0 -1px 0 #282828;
 }
 
 /* Image */
-@media -sass-debug-info{filename{}line{font-family:\00003613}}
+/* line 613 */
 .image {
   border-radius: 4px;
   border: 0;
@@ -2720,7 +2720,7 @@ input[type="radio"] + label:before {
   position: relative;
   overflow: hidden;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003620}}
+/* line 620 */
 .image:before {
   content: '';
   display: block;
@@ -2732,142 +2732,142 @@ input[type="radio"] + label:before {
   height: 100%;
   z-index: 1;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003632}}
+/* line 632 */
 .image img {
   border-radius: 4px;
   display: block;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003637}}
+/* line 637 */
 .image.left {
   float: left;
   margin: 0 1.5em 1em 0;
   top: 0.25em;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003643}}
+/* line 643 */
 .image.right {
   float: right;
   margin: 0 0 1em 1.5em;
   top: 0.25em;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003649}}
+/* line 649 */
 .image.left, .image.right {
   max-width: 40%;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003653}}
+/* line 653 */
 .image.left img, .image.right img {
   width: 100%;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003658}}
+/* line 658 */
 .image.fit {
   display: block;
   margin: 0 0 2em 0;
   width: 100%;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003663}}
+/* line 663 */
 .image.fit img {
   width: 100%;
 }
 
 /* List */
-@media -sass-debug-info{filename{}line{font-family:\00003671}}
+/* line 671 */
 ol {
   list-style: decimal;
   margin: 0 0 2em 0;
   padding-left: 1.25em;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003676}}
+/* line 676 */
 ol li {
   padding-left: 0.25em;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\00003681}}
+/* line 681 */
 ul {
   list-style: disc;
   margin: 0 0 2em 0;
   padding-left: 1em;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003686}}
+/* line 686 */
 ul li {
   padding-left: 0.5em;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003690}}
+/* line 690 */
 ul.alt {
   list-style: none;
   padding-left: 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003694}}
+/* line 694 */
 ul.alt li {
   border-top: solid 1px rgba(100, 100, 100, 0.3);
   padding: 0.5em 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003698}}
+/* line 698 */
 ul.alt li:first-child {
   border-top: 0;
   padding-top: 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003705}}
+/* line 705 */
 ul.icons {
   cursor: default;
   list-style: none;
   padding-left: 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003710}}
+/* line 710 */
 ul.icons li {
   display: inline-block;
   height: 2.5em;
   line-height: 2.5em;
   padding: 0 0.5em;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003716}}
+/* line 716 */
 ul.icons li .icon {
   font-size: 0.8em;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003719}}
+/* line 719 */
 ul.icons li .icon:before {
   font-size: 2em;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003726}}
+/* line 726 */
 ul.actions {
   cursor: default;
   list-style: none;
   padding-left: 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003731}}
+/* line 731 */
 ul.actions li {
   display: inline-block;
   padding: 0 1em 0 0;
   vertical-align: middle;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003736}}
+/* line 736 */
 ul.actions li:last-child {
   padding-right: 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003742}}
+/* line 742 */
 ul.actions.small li {
   padding: 0 0.5em 0 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003748}}
+/* line 748 */
 ul.actions.vertical li {
   display: block;
   padding: 1em 0 0 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003752}}
+/* line 752 */
 ul.actions.vertical li:first-child {
   padding-top: 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003756}}
+/* line 756 */
 ul.actions.vertical li > * {
   margin-bottom: 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003762}}
+/* line 762 */
 ul.actions.vertical.small li {
   padding: 0.5em 0 0 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003765}}
+/* line 765 */
 ul.actions.vertical.small li:first-child {
   padding-top: 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003772}}
+/* line 772 */
 ul.actions.fit {
   display: table;
   margin-left: -1em;
@@ -2875,57 +2875,57 @@ ul.actions.fit {
   table-layout: fixed;
   width: calc(100% + 1em);
 }
-@media -sass-debug-info{filename{}line{font-family:\00003779}}
+/* line 779 */
 ul.actions.fit li {
   display: table-cell;
   padding: 0 0 0 1em;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003783}}
+/* line 783 */
 ul.actions.fit li > * {
   margin-bottom: 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003788}}
+/* line 788 */
 ul.actions.fit.small {
   margin-left: -0.5em;
   width: calc(100% + 0.5em);
 }
-@media -sass-debug-info{filename{}line{font-family:\00003792}}
+/* line 792 */
 ul.actions.fit.small li {
   padding: 0 0 0 0.5em;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\00003800}}
+/* line 800 */
 dl {
   margin: 0 0 2em 0;
 }
 
 /* Table */
-@media -sass-debug-info{filename{}line{font-family:\00003806}}
+/* line 806 */
 .table-wrapper {
   -webkit-overflow-scrolling: touch;
   overflow-x: auto;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\00003811}}
+/* line 811 */
 table {
   margin: 0 0 2em 0;
   width: 100%;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003816}}
+/* line 816 */
 table tbody tr {
   border: solid 1px rgba(100, 100, 100, 0.3);
   border-left: 0;
   border-right: 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003821}}
+/* line 821 */
 table tbody tr:nth-child(2n + 1) {
   background-color: rgba(100, 100, 100, 0.075);
 }
-@media -sass-debug-info{filename{}line{font-family:\00003827}}
+/* line 827 */
 table td {
   padding: 0.75em 0.75em;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003831}}
+/* line 831 */
 table th {
   color: #282828;
   font-size: 0.9em;
@@ -2933,43 +2933,43 @@ table th {
   padding: 0 0.75em 0.75em 0.75em;
   text-align: left;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003839}}
+/* line 839 */
 table thead {
   border-bottom: solid 1px rgba(100, 100, 100, 0.3);
 }
-@media -sass-debug-info{filename{}line{font-family:\00003843}}
+/* line 843 */
 table tfoot {
   border-top: solid 1px rgba(100, 100, 100, 0.3);
 }
-@media -sass-debug-info{filename{}line{font-family:\00003847}}
+/* line 847 */
 table.alt {
   border-collapse: separate;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003852}}
+/* line 852 */
 table.alt tbody tr td {
   border: solid 1px rgba(100, 100, 100, 0.3);
   border-left-width: 0;
   border-top-width: 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003857}}
+/* line 857 */
 table.alt tbody tr td:first-child {
   border-left-width: 1px;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003863}}
+/* line 863 */
 table.alt tbody tr:first-child td {
   border-top-width: 1px;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003870}}
+/* line 870 */
 table.alt thead {
   border-bottom: 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003874}}
+/* line 874 */
 table.alt tfoot {
   border-top: 0;
 }
 
 /* Button */
-@media -sass-debug-info{filename{}line{font-family:\00003882}}
+/* line 882 */
 input[type="submit"],
 input[type="reset"],
 input[type="button"],
@@ -2997,7 +2997,7 @@ input[type="button"],
   text-decoration: none;
   white-space: nowrap;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003903}}
+/* line 903 */
 input[type="submit"]:hover, input[type="submit"]:active,
 input[type="reset"]:hover,
 input[type="reset"]:active,
@@ -3008,21 +3008,21 @@ input[type="button"]:active,
   box-shadow: inset 0 0 0 1px #4CB1E4;
   color: #4CB1E4 !important;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003908}}
+/* line 908 */
 input[type="submit"]:active,
 input[type="reset"]:active,
 input[type="button"]:active,
 .button:active {
   background-color: rgba(76, 177, 228, 0.15);
 }
-@media -sass-debug-info{filename{}line{font-family:\00003913}}
+/* line 913 */
 input[type="submit"].icon:before,
 input[type="reset"].icon:before,
 input[type="button"].icon:before,
 .button.icon:before {
   margin-right: 0.5em;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003918}}
+/* line 918 */
 input[type="submit"].fit,
 input[type="reset"].fit,
 input[type="button"].fit,
@@ -3031,21 +3031,21 @@ input[type="button"].fit,
   margin: 0 0 1em 0;
   width: 100%;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003924}}
+/* line 924 */
 input[type="submit"].small,
 input[type="reset"].small,
 input[type="button"].small,
 .button.small {
   font-size: 0.8em;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003928}}
+/* line 928 */
 input[type="submit"].big,
 input[type="reset"].big,
 input[type="button"].big,
 .button.big {
   font-size: 1.35em;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003932}}
+/* line 932 */
 input[type="submit"].special,
 input[type="reset"].special,
 input[type="button"].special,
@@ -3054,21 +3054,21 @@ input[type="button"].special,
   box-shadow: none;
   color: #282828 !important;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003937}}
+/* line 937 */
 input[type="submit"].special:hover,
 input[type="reset"].special:hover,
 input[type="button"].special:hover,
 .button.special:hover {
   background-color: #62bbe7;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003941}}
+/* line 941 */
 input[type="submit"].special:active,
 input[type="reset"].special:active,
 input[type="button"].special:active,
 .button.special:active {
   background-color: #36a7e1;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003946}}
+/* line 946 */
 input[type="submit"].disabled, input[type="submit"]:disabled,
 input[type="reset"].disabled,
 input[type="reset"]:disabled,
@@ -3084,7 +3084,7 @@ input[type="button"]:disabled,
 }
 
 /* Goto Next */
-@media -sass-debug-info{filename{}line{font-family:\00003958}}
+/* line 958 */
 .goto-next {
   border: 0;
   bottom: 0;
@@ -3099,7 +3099,7 @@ input[type="button"]:disabled,
   width: 10em;
   z-index: 1;
 }
-@media -sass-debug-info{filename{}line{font-family:\00003972}}
+/* line 972 */
 .goto-next:before {
   background-image: url("../images/arrow.svg");
   background-position: center center;
@@ -3117,7 +3117,7 @@ input[type="button"]:disabled,
 }
 
 /* Spotlight */
-@media -sass-debug-info{filename{}line{font-family:\00003991}}
+/* line 991 */
 .spotlight {
   background-attachment: fixed;
   background-position: center center;
@@ -3127,87 +3127,87 @@ input[type="button"]:disabled,
   overflow: hidden;
   position: relative;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031003}}
+/* line 1003 */
 .spotlight:nth-last-of-type(1) {
   z-index: 1;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031003}}
+/* line 1003 */
 .spotlight:nth-last-of-type(2) {
   z-index: 2;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031003}}
+/* line 1003 */
 .spotlight:nth-last-of-type(3) {
   z-index: 3;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031003}}
+/* line 1003 */
 .spotlight:nth-last-of-type(4) {
   z-index: 4;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031003}}
+/* line 1003 */
 .spotlight:nth-last-of-type(5) {
   z-index: 5;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031003}}
+/* line 1003 */
 .spotlight:nth-last-of-type(6) {
   z-index: 6;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031003}}
+/* line 1003 */
 .spotlight:nth-last-of-type(7) {
   z-index: 7;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031003}}
+/* line 1003 */
 .spotlight:nth-last-of-type(8) {
   z-index: 8;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031003}}
+/* line 1003 */
 .spotlight:nth-last-of-type(9) {
   z-index: 9;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031003}}
+/* line 1003 */
 .spotlight:nth-last-of-type(10) {
   z-index: 10;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031003}}
+/* line 1003 */
 .spotlight:nth-last-of-type(11) {
   z-index: 11;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031003}}
+/* line 1003 */
 .spotlight:nth-last-of-type(12) {
   z-index: 12;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031003}}
+/* line 1003 */
 .spotlight:nth-last-of-type(13) {
   z-index: 13;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031003}}
+/* line 1003 */
 .spotlight:nth-last-of-type(14) {
   z-index: 14;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031003}}
+/* line 1003 */
 .spotlight:nth-last-of-type(15) {
   z-index: 15;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031003}}
+/* line 1003 */
 .spotlight:nth-last-of-type(16) {
   z-index: 16;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031003}}
+/* line 1003 */
 .spotlight:nth-last-of-type(17) {
   z-index: 17;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031003}}
+/* line 1003 */
 .spotlight:nth-last-of-type(18) {
   z-index: 18;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031003}}
+/* line 1003 */
 .spotlight:nth-last-of-type(19) {
   z-index: 19;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031003}}
+/* line 1003 */
 .spotlight:nth-last-of-type(20) {
   z-index: 20;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031008}}
+/* line 1008 */
 .spotlight:before {
   content: '';
   display: block;
@@ -3216,15 +3216,15 @@ input[type="button"]:disabled,
   top: 0;
   width: 100%;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031018}}
+/* line 1018 */
 .spotlight .image.main {
   display: none;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031021}}
+/* line 1021 */
 .spotlight .image.main img {
   position: relative;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031026}}
+/* line 1026 */
 .spotlight .content {
   -moz-transform: translate(0,0);
   -webkit-transform: translate(0,0);
@@ -3239,7 +3239,14 @@ input[type="button"]:disabled,
   opacity: 1;
   position: absolute;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031035}}
+/* line 1034 */
+.spotlight .content.first {
+  -moz-transition-delay: 1s;
+  -webkit-transition-delay: 1s;
+  -ms-transition-delay: 1s;
+  transition-delay: 1s;
+}
+/* line 1039 */
 .spotlight .goto-next {
   -moz-transform: translate(0,0);
   -webkit-transform: translate(0,0);
@@ -3255,56 +3262,56 @@ input[type="button"]:disabled,
   transition-delay: 0.5s;
   opacity: 1;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031043}}
+/* line 1047 */
 .spotlight.top .content, .spotlight.bottom .content {
   left: 0;
   padding: 5.1em 0 3.1em 0;
   width: 100%;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031051}}
+/* line 1055 */
 .spotlight.top .content {
   border-bottom-width: 0.35em;
   top: 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031058}}
+/* line 1062 */
 .spotlight.bottom .content {
   border-top-width: 0.35em;
   bottom: 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031065}}
+/* line 1069 */
 .spotlight.left .content, .spotlight.right .content {
   height: 101%;
   padding: 6em 3em;
   top: 0;
   width: 28em;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031074}}
+/* line 1078 */
 .spotlight.left .content {
   border-right-width: 0.35em;
   left: 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031081}}
+/* line 1085 */
 .spotlight.right .content {
   border-left-width: 0.35em;
   right: 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031088}}
+/* line 1092 */
 .spotlight.style1 .content {
   border-color: #4CB1E4;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031094}}
+/* line 1098 */
 .spotlight.style2 .content {
   border-color: #F15480;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031100}}
+/* line 1104 */
 .spotlight.style3 .content {
   border-color: #39c088;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031106}}
+/* line 1110 */
 .spotlight.inactive .content {
   opacity: 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031110}}
+/* line 1114 */
 .spotlight.inactive .goto-next {
   -moz-transform: translate(0,1.5em);
   -webkit-transform: translate(0,1.5em);
@@ -3312,28 +3319,28 @@ input[type="button"]:disabled,
   transform: translate(0,1.5em);
   opacity: 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031116}}
+/* line 1120 */
 .spotlight.inactive.top .content {
   -moz-transform: translate(0,-5em);
   -webkit-transform: translate(0,-5em);
   -ms-transform: translate(0,-5em);
   transform: translate(0,-5em);
 }
-@media -sass-debug-info{filename{}line{font-family:\000031122}}
+/* line 1126 */
 .spotlight.inactive.bottom .content {
   -moz-transform: translate(0,5em);
   -webkit-transform: translate(0,5em);
   -ms-transform: translate(0,5em);
   transform: translate(0,5em);
 }
-@media -sass-debug-info{filename{}line{font-family:\000031128}}
+/* line 1132 */
 .spotlight.inactive.left .content {
   -moz-transform: translate(-5em,0);
   -webkit-transform: translate(-5em,0);
   -ms-transform: translate(-5em,0);
   transform: translate(-5em,0);
 }
-@media -sass-debug-info{filename{}line{font-family:\000031134}}
+/* line 1138 */
 .spotlight.inactive.right .content {
   -moz-transform: translate(5em,0);
   -webkit-transform: translate(5em,0);
@@ -3341,21 +3348,38 @@ input[type="button"]:disabled,
   transform: translate(5em,0);
 }
 
-@media -sass-debug-info{filename{}line{font-family:\000031142}}
+/* line 1146 */
 body.is-touch .spotlight {
   background-attachment: scroll;
 }
 
 /* Wrapper */
-@media -sass-debug-info{filename{}line{font-family:\000031149}}
+/* line 1153 */
 .wrapper {
   padding: 6em 0 4em 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031155}}
+/* line 1159 */
 .wrapper.style2 {
   background: #4CB1E4;
+  color: #fff;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031163}}
+/* line 1163 */
+.wrapper.style2 h1, .wrapper.style2 h2, .wrapper.style2 h3, .wrapper.style2 h4, .wrapper.style2 h5, .wrapper.style2 h6, .wrapper.style2 p, .wrapper.style2 input {
+  color: #fff;
+}
+/* line 1167 */
+.wrapper.style2 input[type="submit"].special {
+  background-color: #fff !important;
+}
+/* line 1170 */
+.wrapper.style2 input[type="email"] {
+  border: solid 1px rgba(255, 255, 255, 0.3);
+}
+/* line 1173 */
+.wrapper.style2 input[type="email"]:focus {
+  border-color: rgba(255, 255, 255, 0.7) !important;
+}
+/* line 1182 */
 .wrapper.style2 input[type="text"]:focus,
 .wrapper.style2 input[type="password"]:focus,
 .wrapper.style2 input[type="email"]:focus,
@@ -3363,7 +3387,7 @@ body.is-touch .spotlight {
 .wrapper.style2 textarea:focus {
   border-color: rgba(100, 100, 100, 0.5);
 }
-@media -sass-debug-info{filename{}line{font-family:\000031172}}
+/* line 1191 */
 .wrapper.style2 input[type="submit"]:hover, .wrapper.style2 input[type="submit"]:active,
 .wrapper.style2 input[type="reset"]:hover,
 .wrapper.style2 input[type="reset"]:active,
@@ -3375,14 +3399,14 @@ body.is-touch .spotlight {
   box-shadow: inset 0 0 0 1px rgba(100, 100, 100, 0.5) !important;
   color: #282828 !important;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031178}}
+/* line 1197 */
 .wrapper.style2 input[type="submit"]:active,
 .wrapper.style2 input[type="reset"]:active,
 .wrapper.style2 input[type="button"]:active,
 .wrapper.style2 .button:active {
   background-color: rgba(100, 100, 100, 0.25) !important;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031182}}
+/* line 1201 */
 .wrapper.style2 input[type="submit"].special,
 .wrapper.style2 input[type="reset"].special,
 .wrapper.style2 input[type="button"].special,
@@ -3390,7 +3414,7 @@ body.is-touch .spotlight {
   background-color: #282828;
   color: #4CB1E4 !important;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031186}}
+/* line 1205 */
 .wrapper.style2 input[type="submit"].special:hover, .wrapper.style2 input[type="submit"].special:active,
 .wrapper.style2 input[type="reset"].special:hover,
 .wrapper.style2 input[type="reset"].special:active,
@@ -3402,14 +3426,14 @@ body.is-touch .spotlight {
   box-shadow: inset 0 0 0 1px rgba(100, 100, 100, 0.5) !important;
   color: #282828 !important;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031192}}
+/* line 1211 */
 .wrapper.style2 input[type="submit"].special:active,
 .wrapper.style2 input[type="reset"].special:active,
 .wrapper.style2 input[type="button"].special:active,
 .wrapper.style2 .button.special:active {
   background-color: rgba(100, 100, 100, 0.25) !important;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031200}}
+/* line 1219 */
 .wrapper.fade-down > .container {
   -moz-transform: translate(0,0);
   -webkit-transform: translate(0,0);
@@ -3421,7 +3445,7 @@ body.is-touch .spotlight {
   transition: transform 1s ease, opacity 1s ease;
   opacity: 1;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031207}}
+/* line 1226 */
 .wrapper.fade-down.inactive > .container {
   -moz-transform: translate(0,-1em);
   -webkit-transform: translate(0,-1em);
@@ -3429,7 +3453,7 @@ body.is-touch .spotlight {
   transform: translate(0,-1em);
   opacity: 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031215}}
+/* line 1234 */
 .wrapper.fade-up > .container {
   -moz-transform: translate(0,0);
   -webkit-transform: translate(0,0);
@@ -3441,7 +3465,7 @@ body.is-touch .spotlight {
   transition: transform 1s ease, opacity 1s ease;
   opacity: 1;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031222}}
+/* line 1241 */
 .wrapper.fade-up.inactive > .container {
   -moz-transform: translate(0,1em);
   -webkit-transform: translate(0,1em);
@@ -3449,7 +3473,7 @@ body.is-touch .spotlight {
   transform: translate(0,1em);
   opacity: 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031230}}
+/* line 1249 */
 .wrapper.fade > .container {
   -moz-transition: opacity 1s ease;
   -webkit-transition: opacity 1s ease;
@@ -3457,13 +3481,13 @@ body.is-touch .spotlight {
   transition: opacity 1s ease;
   opacity: 1;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031236}}
+/* line 1255 */
 .wrapper.fade.inactive > .container {
   opacity: 0;
 }
 
 /* Dropotron */
-@media -sass-debug-info{filename{}line{font-family:\000031245}}
+/* line 1264 */
 .dropotron {
   background: rgba(0, 0, 0, 0.8);
   border-radius: 4px;
@@ -3473,12 +3497,12 @@ body.is-touch .spotlight {
   min-width: 12em;
   padding: 0.25em 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031254}}
+/* line 1273 */
 .dropotron > li {
   border-top: solid 1px rgba(255, 255, 255, 0.035);
   padding: 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031258}}
+/* line 1277 */
 .dropotron > li a, .dropotron > li span {
   border: 0;
   color: rgba(20, 20, 20, 0.75);
@@ -3486,20 +3510,20 @@ body.is-touch .spotlight {
   padding: 0.1em 1em;
   text-decoration: none;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031266}}
+/* line 1285 */
 .dropotron > li:first-child {
   border-top: 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031271}}
+/* line 1290 */
 .dropotron > li.active > a, .dropotron > li.active > span {
   color: #4CB1E4;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031277}}
+/* line 1296 */
 .dropotron.level-0 {
   font-size: 0.8em;
   margin-top: 1em;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031281}}
+/* line 1300 */
 .dropotron.level-0:before {
   -moz-transform: rotate(45deg);
   -webkit-transform: rotate(45deg);
@@ -3515,18 +3539,18 @@ body.is-touch .spotlight {
   width: 1em;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\000031297}}
+/* line 1316 */
 body.landing .dropotron.level-0 {
   margin-top: 0;
 }
 
 /* Header */
-@media -sass-debug-info{filename{}line{font-family:\000031305}}
+/* line 1324 */
 #page-wrapper {
   padding-top: 3.5em;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\000031309}}
+/* line 1328 */
 #header {
   background: rgba(0, 0, 0, 0.8);
   box-shadow: 0 0 0.25em 0 rgba(0, 0, 0, 0.25);
@@ -3539,27 +3563,27 @@ body.landing .dropotron.level-0 {
   width: 100%;
   z-index: 100;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031311}}
+/* line 1330 */
 #header.accent1 {
   background: #4CB1E4;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031314}}
+/* line 1333 */
 #header.accent2 {
   background: #D3D4D6;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031317}}
+/* line 1336 */
 #header.accent3 {
   background: #F15480;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031320}}
+/* line 1339 */
 #header.accent4 {
   background: #39c088;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031323}}
+/* line 1342 */
 #header.accent5 {
   background: #F2E801;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031337}}
+/* line 1356 */
 #header h1 {
   height: inherit;
   left: 1.25em;
@@ -3568,22 +3592,22 @@ body.landing .dropotron.level-0 {
   position: absolute;
   top: 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031346}}
+/* line 1365 */
 #header nav {
   position: absolute;
   right: 1em;
   top: 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031351}}
+/* line 1370 */
 #header nav ul {
   margin: 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031354}}
+/* line 1373 */
 #header nav ul li {
   display: inline-block;
   margin-left: 1em;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031358}}
+/* line 1377 */
 #header nav ul li a, #header nav ul li span {
   border: 0;
   color: #fff;
@@ -3592,62 +3616,62 @@ body.landing .dropotron.level-0 {
   line-height: inherit;
   outline: 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031366}}
+/* line 1385 */
 #header nav ul li a.button, #header nav ul li span.button {
   height: 2em;
   line-height: 2em;
   padding: 0 1.25em;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031372}}
+/* line 1391 */
 #header nav ul li a:not(.button):before, #header nav ul li span:not(.button):before {
   margin-right: 0.5em;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031375}}
+/* line 1394 */
 #header nav ul li a:hover, #header nav ul li span:hover {
   opacity: 0.65;
   color: #fff !important;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031382}}
+/* line 1401 */
 #header nav ul li.active > a, #header nav ul li.active > span {
   color: #4CB1E4;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031387}}
+/* line 1406 */
 #header nav ul li:last-child {
   margin-right: 1em;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031391}}
+/* line 1410 */
 #header nav ul li > ul {
   display: none;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\000031400}}
+/* line 1419 */
 body.landing #page-wrapper {
   padding-top: 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031404}}
+/* line 1423 */
 body.landing #header {
   background: transparent;
   box-shadow: none;
   position: absolute;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031409}}
+/* line 1428 */
 body.landing #header li a {
   color: #fff;
 }
 
 /* Banner */
 @media screen and (max-device-width: 800px) {
-@media -sass-debug-info{filename{}line{font-family:\000031420}}
+  /* line 1439 */
   #banner {
     background: url(../images/banner.jpg) #000 no-repeat center center fixed;
   }
 
-@media -sass-debug-info{filename{}line{font-family:\000031423}}
+  /* line 1442 */
   #bgvid {
     display: none;
   }
 }
-@media -sass-debug-info{filename{}line{font-family:\000031427}}
+/* line 1446 */
 #banner {
   background-attachment: fixed;
   background-image: url("../images/banner.jpg");
@@ -3659,7 +3683,7 @@ body.landing #header li a {
   text-align: center;
   z-index: 21;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031439}}
+/* line 1458 */
 #banner:before {
   content: '';
   display: inline-block;
@@ -3667,7 +3691,7 @@ body.landing #header li a {
   vertical-align: middle;
   width: 1%;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031447}}
+/* line 1466 */
 #banner:after {
   background-image: url("../images/overlay.png");;
   content: '';
@@ -3678,7 +3702,7 @@ body.landing #header li a {
   top: 0;
   width: 100%;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031457}}
+/* line 1476 */
 #banner video#bgvid {
   position: fixed;
   top: 50%;
@@ -3693,7 +3717,7 @@ body.landing #header li a {
   background: url(../images/banner.jpg) no-repeat;
   background-size: cover;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031471}}
+/* line 1490 */
 #banner .content {
   display: inline-block;
   margin-right: 1%;
@@ -3704,28 +3728,28 @@ body.landing #header li a {
   vertical-align: middle;
   z-index: 1;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031481}}
+/* line 1500 */
 #banner .content header {
   display: inline-block;
   vertical-align: middle;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031485}}
+/* line 1504 */
 #banner .content header h2 {
   font-size: 2.5em;
   margin: 0;
   color: #fff;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031491}}
+/* line 1510 */
 #banner .content header p {
   margin: 0.5em 0 0 0;
   top: 0;
   color: #fff;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031495}}
+/* line 1514 */
 #banner .content header p strong {
   color: #eee;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031501}}
+/* line 1520 */
 #banner .content .image {
   border-radius: 100%;
   display: inline-block;
@@ -3734,30 +3758,30 @@ body.landing #header li a {
   vertical-align: middle;
   width: 18em;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031509}}
+/* line 1528 */
 #banner .content .image img {
   border-radius: 100%;
   display: block;
   width: 100%;
 }
 
-@media -sass-debug-info{filename{}line{font-family:\000031519}}
+/* line 1538 */
 body.is-touch #banner {
   background-attachment: scroll;
 }
 
 /* Footer */
-@media -sass-debug-info{filename{}line{font-family:\000031526}}
+/* line 1545 */
 #footer {
   background: #D3D4D6;
   padding: 6em 0;
   text-align: center;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031533}}
+/* line 1552 */
 #footer .icons .icon.alt {
   text-decoration: none;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_mixins\.scss}line{font-family:\000037}}
+/* line 7, /home/ubuntu/technicolor_world/static/css/libs/_mixins.scss */
 #footer .icons .icon.alt:before {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
@@ -3766,12 +3790,12 @@ body.is-touch #banner {
   font-weight: normal;
   text-transform: none !important;
 }
-@media -sass-debug-info{filename{}line{font-family:\0000344}}
+/* line 44 */
 #footer .icons .icon.alt:before {
   color: #D3D4D6 !important;
   text-shadow: 1px 0 0 rgba(20, 20, 20, 0.5), -1px 0 0 rgba(20, 20, 20, 0.5), 0 1px 0 rgba(20, 20, 20, 0.5), 0 -1px 0 rgba(20, 20, 20, 0.5);
 }
-@media -sass-debug-info{filename{}line{font-family:\000031539}}
+/* line 1558 */
 #footer .copyright {
   color: rgba(20, 20, 20, 0.5);
   font-size: 0.8em;
@@ -3780,7 +3804,7 @@ body.is-touch #banner {
   padding: 0;
   text-align: center;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031547}}
+/* line 1566 */
 #footer .copyright li {
   border-left: solid 1px rgba(100, 100, 100, 0.3);
   display: inline-block;
@@ -3788,13 +3812,13 @@ body.is-touch #banner {
   margin-left: 1.5em;
   padding-left: 1.5em;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031554}}
+/* line 1573 */
 #footer .copyright li:first-child {
   border-left: 0;
   margin-left: 0;
   padding-left: 0;
 }
-@media -sass-debug-info{filename{}line{font-family:\000031560}}
+/* line 1579 */
 #footer .copyright li a {
   color: inherit;
 }
@@ -3802,7 +3826,7 @@ body.is-touch #banner {
 /* XLarge */
 @media screen and (max-width: 1680px) {
   /* Basic */
-@media -sass-debug-info{filename{}line{font-family:\000031573}}
+  /* line 1592 */
   body, input, select, textarea {
     font-size: 13pt;
   }
@@ -3810,46 +3834,46 @@ body.is-touch #banner {
 /* Large */
 @media screen and (max-width: 1280px) {
   /* Basic */
-@media -sass-debug-info{filename{}line{font-family:\000031588}}
+  /* line 1607 */
   body, input, select, textarea {
     font-size: 11.5pt;
   }
 
   /* Spotlight */
-@media -sass-debug-info{filename{}line{font-family:\000031596}}
+  /* line 1615 */
   .spotlight.top .content {
     padding: 3.825em 0 1.825em 0;
   }
-@media -sass-debug-info{filename{}line{font-family:\000031602}}
+  /* line 1621 */
   .spotlight.bottom .content {
     padding: 3.825em 0 2.95em 0;
   }
-@media -sass-debug-info{filename{}line{font-family:\000031608}}
+  /* line 1627 */
   .spotlight.left .content, .spotlight.right .content {
     padding: 4.5em 2.5em;
     width: 25em;
   }
 
   /* Wrapper */
-@media -sass-debug-info{filename{}line{font-family:\000031617}}
+  /* line 1636 */
   .wrapper {
     padding: 4.5em 0 2.5em 0;
   }
 
   /* Dropotron */
-@media -sass-debug-info{filename{}line{font-family:\000031624}}
+  /* line 1643 */
   .dropotron.level-0 {
     font-size: 1em;
   }
 
   /* Banner */
-@media -sass-debug-info{filename{}line{font-family:\000031632}}
+  /* line 1651 */
   #banner .content {
     padding: 4.5em;
   }
 
   /* Footer */
-@media -sass-debug-info{filename{}line{font-family:\000031639}}
+  /* line 1658 */
   #footer {
     padding: 4.5em 0;
   }
@@ -3857,25 +3881,25 @@ body.is-touch #banner {
 /* Medium */
 @media screen and (max-width: 980px) {
   /* Basic */
-@media -sass-debug-info{filename{}line{font-family:\000031654}}
+  /* line 1673 */
   body, input, select, textarea {
     font-size: 12pt;
   }
 
   /* Spotlight */
-@media -sass-debug-info{filename{}line{font-family:\000031660}}
+  /* line 1679 */
   .spotlight {
     background-attachment: scroll;
     height: auto;
   }
-@media -sass-debug-info{filename{}line{font-family:\000031664}}
+  /* line 1683 */
   .spotlight .image.main {
     display: block;
     margin: 0;
     max-height: 40vh;
     overflow: hidden;
   }
-@media -sass-debug-info{filename{}line{font-family:\000031671}}
+  /* line 1690 */
   .spotlight .content {
     background-color: #fff;
     border-width: 0 !important;
@@ -3889,107 +3913,107 @@ body.is-touch #banner {
     top: auto !important;
     width: 100% !important;
   }
-@media -sass-debug-info{filename{}line{font-family:\000031685}}
+  /* line 1704 */
   .spotlight .goto-next {
     display: none;
   }
 
   /* Wrapper */
-@media -sass-debug-info{filename{}line{font-family:\000031692}}
+  /* line 1711 */
   .wrapper {
     padding: 4.5em 2.5em 2.5em 2.5em;
   }
 
   /* Banner */
-@media -sass-debug-info{filename{}line{font-family:\000031698}}
+  /* line 1717 */
   #banner {
     background-attachment: scroll;
   }
-@media -sass-debug-info{filename{}line{font-family:\000031701}}
+  /* line 1720 */
   #banner .goto-next {
     height: 7em;
   }
-@media -sass-debug-info{filename{}line{font-family:\000031705}}
+  /* line 1724 */
   #banner .content {
     padding: 9em 0;
     text-align: center;
   }
-@media -sass-debug-info{filename{}line{font-family:\000031709}}
+  /* line 1728 */
   #banner .content header {
     display: block;
     margin: 0 0 2em 0;
     text-align: center;
   }
-@media -sass-debug-info{filename{}line{font-family:\000031715}}
+  /* line 1734 */
   #banner .content .image {
     margin: 0;
   }
 
   /* Footer */
-@media -sass-debug-info{filename{}line{font-family:\000031723}}
+  /* line 1742 */
   #footer {
     padding: 4.5em 0;
   }
 }
 /* Small */
-@media -sass-debug-info{filename{}line{font-family:\000031731}}
+/* line 1750 */
 #navPanel, #titleBar {
   display: none;
 }
 
 @media screen and (max-width: 736px) {
   /* Basic */
-@media -sass-debug-info{filename{}line{font-family:\000031742}}
+  /* line 1761 */
   html, body {
     overflow-x: hidden;
   }
 
-@media -sass-debug-info{filename{}line{font-family:\000031746}}
+  /* line 1765 */
   body, input, select, textarea {
     font-size: 12pt;
   }
 
-@media -sass-debug-info{filename{}line{font-family:\000031750}}
+  /* line 1769 */
   h2 {
     font-size: 1.5em;
   }
 
-@media -sass-debug-info{filename{}line{font-family:\000031754}}
+  /* line 1773 */
   h3 {
     font-size: 1.2em;
   }
 
-@media -sass-debug-info{filename{}line{font-family:\000031758}}
+  /* line 1777 */
   h4 {
     font-size: 1em;
   }
 
   /* Section/Article */
-@media -sass-debug-info{filename{}line{font-family:\000031766}}
+  /* line 1785 */
   header p br {
     display: none;
   }
-@media -sass-debug-info{filename{}line{font-family:\000031771}}
+  /* line 1790 */
   header h2 + p {
     font-size: 1em;
   }
-@media -sass-debug-info{filename{}line{font-family:\000031775}}
+  /* line 1794 */
   header h3 + p {
     font-size: 1em;
   }
-@media -sass-debug-info{filename{}line{font-family:\000031779}}
+  /* line 1798 */
   header h4 + p,
   header h5 + p,
   header h6 + p {
     font-size: 0.9em;
   }
-@media -sass-debug-info{filename{}line{font-family:\000031785}}
+  /* line 1804 */
   header.major {
     margin: 0 0 2em 0;
   }
 
   /* Goto Next */
-@media -sass-debug-info{filename{}line{font-family:\000031793}}
+  /* line 1812 */
   .goto-next:before {
     height: 0.8em;
     margin: -0.4em 0 0 -0.6em;
@@ -3997,58 +4021,58 @@ body.is-touch #banner {
   }
 
   /* Spotlight */
-@media -sass-debug-info{filename{}line{font-family:\000031802}}
+  /* line 1821 */
   .spotlight {
     box-shadow: 0 0.125em 0.5em 0 rgba(0, 0, 0, 0.25);
   }
-@media -sass-debug-info{filename{}line{font-family:\000031805}}
+  /* line 1824 */
   .spotlight .image.main {
     max-height: 60vh;
   }
-@media -sass-debug-info{filename{}line{font-family:\000031809}}
+  /* line 1828 */
   .spotlight .content {
     border-top-width: 0.2em !important;
     padding: 3.25em 1.5em 1.25em 1.5em !important;
   }
 
   /* Wrapper */
-@media -sass-debug-info{filename{}line{font-family:\000031817}}
+  /* line 1836 */
   .wrapper {
     padding: 3.25em 1.5em 1.25em 1.5em;
   }
 
   /* Header */
-@media -sass-debug-info{filename{}line{font-family:\000031823}}
+  /* line 1842 */
   #header {
     display: none;
   }
 
   /* Banner */
-@media -sass-debug-info{filename{}line{font-family:\000031829}}
+  /* line 1848 */
   #banner {
     box-shadow: 0 0.125em 0.5em 0 rgba(0, 0, 0, 0.25);
     min-height: calc(100vh - 44px);
   }
-@media -sass-debug-info{filename{}line{font-family:\000031833}}
+  /* line 1852 */
   #banner:before {
     height: calc(100vh - 44px);
   }
-@media -sass-debug-info{filename{}line{font-family:\000031837}}
+  /* line 1856 */
   #banner .content {
     padding: 4.0625em 1.5em 4.875em 1.5em;
   }
-@media -sass-debug-info{filename{}line{font-family:\000031841}}
+  /* line 1860 */
   #banner .content header h2 {
     font-size: 1.5em;
   }
-@media -sass-debug-info{filename{}line{font-family:\000031846}}
+  /* line 1865 */
   #banner .content .image {
     height: 9em;
     width: 9em;
   }
 
   /* Off-Canvas Navigation */
-@media -sass-debug-info{filename{}line{font-family:\000031855}}
+  /* line 1874 */
   #page-wrapper {
     -moz-backface-visibility: hidden;
     -webkit-backface-visibility: hidden;
@@ -4062,7 +4086,7 @@ body.is-touch #banner {
     padding-top: 44px !important;
   }
 
-@media -sass-debug-info{filename{}line{font-family:\000031862}}
+  /* line 1881 */
   #titleBar {
     -moz-backface-visibility: hidden;
     -webkit-backface-visibility: hidden;
@@ -4082,7 +4106,7 @@ body.is-touch #banner {
     background: #D3D4D6;
     box-shadow: 0 0.125em 0.125em 0 rgba(0, 0, 0, 0.125);
   }
-@media -sass-debug-info{filename{}line{font-family:\000031875}}
+  /* line 1894 */
   #titleBar .title {
     color: #282828;
     display: block;
@@ -4091,12 +4115,12 @@ body.is-touch #banner {
     line-height: 44px;
     text-align: center;
   }
-@media -sass-debug-info{filename{}line{font-family:\000031883}}
+  /* line 1902 */
   #titleBar .title a {
     color: inherit;
     border: 0;
   }
-@media -sass-debug-info{filename{}line{font-family:\000031889}}
+  /* line 1908 */
   #titleBar .toggle {
     text-decoration: none;
     height: 60px;
@@ -4107,7 +4131,7 @@ body.is-touch #banner {
     outline: 0;
     border: 0;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/ubuntu\/technicolor_world\/static\/css\/libs\/_mixins\.scss}line{font-family:\000037}}
+  /* line 7, /home/ubuntu/technicolor_world/static/css/libs/_mixins.scss */
   #titleBar .toggle:before {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
@@ -4116,7 +4140,7 @@ body.is-touch #banner {
     font-weight: normal;
     text-transform: none !important;
   }
-@media -sass-debug-info{filename{}line{font-family:\000031899}}
+  /* line 1918 */
   #titleBar .toggle:before {
     background: #4CB1E4;
     color: rgba(20, 20, 20, 0.5);
@@ -4132,7 +4156,7 @@ body.is-touch #banner {
     width: 54px;
   }
 
-@media -sass-debug-info{filename{}line{font-family:\000031916}}
+  /* line 1935 */
   #navPanel {
     -moz-backface-visibility: hidden;
     -webkit-backface-visibility: hidden;
@@ -4157,7 +4181,7 @@ body.is-touch #banner {
     background: #fafafa;
     padding: 0.75em 1.25em;
   }
-@media -sass-debug-info{filename{}line{font-family:\000031931}}
+  /* line 1950 */
   #navPanel .link {
     border: 0;
     border-top: solid 1px rgba(100, 100, 100, 0.05);
@@ -4167,60 +4191,60 @@ body.is-touch #banner {
     line-height: 3em;
     text-decoration: none;
   }
-@media -sass-debug-info{filename{}line{font-family:\000031940}}
+  /* line 1959 */
   #navPanel .link:hover {
     color: inherit !important;
   }
-@media -sass-debug-info{filename{}line{font-family:\000031944}}
+  /* line 1963 */
   #navPanel .link:first-child {
     border-top: 0;
   }
-@media -sass-debug-info{filename{}line{font-family:\000031948}}
+  /* line 1967 */
   #navPanel .link.depth-0 {
     color: #282828;
     font-weight: 300;
   }
-@media -sass-debug-info{filename{}line{font-family:\000031953}}
+  /* line 1972 */
   #navPanel .link .indent-1 {
     display: inline-block;
     width: 1.25em;
   }
-@media -sass-debug-info{filename{}line{font-family:\000031954}}
+  /* line 1973 */
   #navPanel .link .indent-2 {
     display: inline-block;
     width: 2.5em;
   }
-@media -sass-debug-info{filename{}line{font-family:\000031955}}
+  /* line 1974 */
   #navPanel .link .indent-3 {
     display: inline-block;
     width: 3.75em;
   }
-@media -sass-debug-info{filename{}line{font-family:\000031956}}
+  /* line 1975 */
   #navPanel .link .indent-4 {
     display: inline-block;
     width: 5em;
   }
-@media -sass-debug-info{filename{}line{font-family:\000031957}}
+  /* line 1976 */
   #navPanel .link .indent-5 {
     display: inline-block;
     width: 6.25em;
   }
 
-@media -sass-debug-info{filename{}line{font-family:\000031963}}
+  /* line 1982 */
   body.navPanel-visible #page-wrapper {
     -moz-transform: translateX(275px);
     -webkit-transform: translateX(275px);
     -ms-transform: translateX(275px);
     transform: translateX(275px);
   }
-@media -sass-debug-info{filename{}line{font-family:\000031967}}
+  /* line 1986 */
   body.navPanel-visible #titleBar {
     -moz-transform: translateX(275px);
     -webkit-transform: translateX(275px);
     -ms-transform: translateX(275px);
     transform: translateX(275px);
   }
-@media -sass-debug-info{filename{}line{font-family:\000031971}}
+  /* line 1990 */
   body.navPanel-visible #navPanel {
     -moz-transform: translateX(0);
     -webkit-transform: translateX(0);
@@ -4229,7 +4253,7 @@ body.is-touch #banner {
   }
 
   /* Footer */
-@media -sass-debug-info{filename{}line{font-family:\000031979}}
+  /* line 1998 */
   #footer {
     padding: 3.25em 1.5em;
   }
@@ -4237,79 +4261,79 @@ body.is-touch #banner {
 /* XSmall */
 @media screen and (max-width: 480px) {
   /* Basic */
-@media -sass-debug-info{filename{}line{font-family:\000031994}}
+  /* line 2013 */
   html, body {
     min-width: 320px;
   }
 
-@media -sass-debug-info{filename{}line{font-family:\000031998}}
+  /* line 2017 */
   body, input, select, textarea {
     font-size: 12pt;
   }
 
   /* List */
-@media -sass-debug-info{filename{}line{font-family:\000032005}}
+  /* line 2024 */
   ul.actions {
     margin: 0 0 2em 0;
   }
-@media -sass-debug-info{filename{}line{font-family:\000032008}}
+  /* line 2027 */
   ul.actions li {
     display: block;
     padding: 1em 0 0 0;
     text-align: center;
     width: 100%;
   }
-@media -sass-debug-info{filename{}line{font-family:\000032014}}
+  /* line 2033 */
   ul.actions li:first-child {
     padding-top: 0;
   }
-@media -sass-debug-info{filename{}line{font-family:\000032018}}
+  /* line 2037 */
   ul.actions li > * {
     margin: 0 !important;
     width: 100%;
   }
-@media -sass-debug-info{filename{}line{font-family:\000032025}}
+  /* line 2044 */
   ul.actions.small li {
     padding: 0.5em 0 0 0;
   }
-@media -sass-debug-info{filename{}line{font-family:\000032028}}
+  /* line 2047 */
   ul.actions.small li:first-child {
     padding-top: 0;
   }
 
   /* Button */
   /* Spotlight */
-@media -sass-debug-info{filename{}line{font-family:\000032048}}
+  /* line 2067 */
   .spotlight .image.main {
     max-height: 50vh;
   }
-@media -sass-debug-info{filename{}line{font-family:\000032052}}
+  /* line 2071 */
   .spotlight .content {
     padding: 3em 1.25em 1em 1.25em !important;
   }
 
   /* Wrapper */
-@media -sass-debug-info{filename{}line{font-family:\000032059}}
+  /* line 2078 */
   .wrapper {
     padding: 3em 1.25em 1em 1.25em;
   }
 
   /* Banner */
-@media -sass-debug-info{filename{}line{font-family:\000032066}}
+  /* line 2085 */
   #banner .content {
     padding: 3em 1.5625em 5.25em 1.5625em;
   }
 
   /* Footer */
-@media -sass-debug-info{filename{}line{font-family:\000032073}}
+  /* line 2092 */
   #footer {
     padding: 3em 1.25em;
   }
-@media -sass-debug-info{filename{}line{font-family:\000032076}}
+  /* line 2095 */
   #footer .copyright {
     line-height: inherit;
   }
-@media -sass-debug-info{filename{}line{font-family:\000032079}}
+  /* line 2098 */
   #footer .copyright li {
     border-left: 0;
     display: block;
