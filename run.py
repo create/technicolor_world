@@ -66,7 +66,7 @@ def email():
 
     message.add_to("contact@technicolorworld.xyz")
     message.set_from(email)
-    message.set_subject("Contact Us")
+    message.set_subject("Technicolor World - Contact Us")
     message.set_html(text)
 
     sg.send(message)
